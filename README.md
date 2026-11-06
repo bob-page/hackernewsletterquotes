@@ -4,7 +4,7 @@ Every issue of [Hacker Newsletter](https://hackernewsletter.com/) opens with a s
 
 This is an unofficial fan project and isn't affiliated with the newsletter. Corrections and missing issues are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-**681 unique quotes from 746 issues**, newest first. 62 issue numbers are still missing.
+**682 unique quotes from 747 issues**, newest first. 62 issue numbers are still missing.
 
 - Attributions are as printed in the newsletter and haven't been verified.
 - Dates are the date printed in each issue.
@@ -16,6 +16,7 @@ This is an unofficial fan project and isn't affiliated with the newsletter. Corr
 
 | Issue | Date | Quote | Attribution | Notes |
 | --- | --- | --- | --- | --- |
+| #817 | 2026-11-06 | The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. | G.K. Chesterton |  |
 | #816 | 2026-10-30 | Things are only impossible until they are not. | Captain Picard |  |
 | #815 | 2026-10-23 | Vision without action is a daydream. | Karthik Shankar |  |
 | #814 | 2026-10-16 | Institutions will try to preserve the problem to which they are the solution. | Clay Shirky | Dup of #224 |
