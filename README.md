@@ -53,7 +53,7 @@ This is an unofficial fan project and isn't affiliated with the newsletter. Corr
 | #783 | 2026-02-20 | We shape our tools, and thereafter our tools shape us. | Marshall McLuhan |  |
 | #782 | 2026-02-13 | Not doing something will always be faster than doing it. | James Clear |  |
 | #781 | 2026-02-06 | The most important thing to do if you find yourself in a hole is to stop digging. | Warren Buffett |  |
-| #780 | 2026-01-30 | You have succeeded in life when all you really want is only what you really need. | Vernon Howard | Delivered twice |
+| #780 | 2026-01-30 | You have succeeded in life when all you really want is only what you really need. | Vernon Howard |  |
 | #779 | 2026-01-23 | Build something 100 people love, not something 1M people kind of like. | Brian Chesky | Dup of #777 |
 | #778 | 2026-01-16 | When I was a kid my parents moved a lot, but I always found them. | Rodney Dangerfield |  |
 | #777 | 2026-01-09 | Build something 100 people love, not something 1M people kind of like. | Brian Chesky |  |
