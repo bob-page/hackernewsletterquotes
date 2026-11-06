@@ -1,0 +1,33 @@
+name: Update README
+
+# Contributors edit quotes.csv only. This rebuilds the README table after a merge.
+on:
+  push:
+    branches: [main]
+    paths: [quotes.csv]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: python3 scripts/build_readme.py
+      - name: Commit the README
+        run: |
+          if git diff --quiet README.md; then
+            echo "README is current"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"

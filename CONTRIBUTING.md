@@ -1,6 +1,6 @@
 # Contributing
 
-Corrections and missing issues are welcome. Edit `quotes.csv`, not the table in the README, which is generated from it.
+Corrections and missing issues are welcome. Edit `quotes.csv` and open a pull request. Leave the table in the README alone: it's rebuilt from `quotes.csv` automatically after each merge.
 
 ## What's most useful
 
@@ -18,15 +18,9 @@ Corrections and missing issues are welcome. Edit `quotes.csv`, not the table in 
 | `attribution` | The name as printed, unless you're correcting it. |
 | `notes` | Anything else, such as `Dup of #123` or `Variant of #123`. Separate notes with `; `. |
 
-## Before opening a pull request
+## After opening a pull request
 
-```bash
-python3 scripts/build_readme.py
-```
-
-```bash
-python3 scripts/check.py
-```
+A check validates `quotes.csv` and reports any problems on the pull request. There's nothing to run yourself.
 
 New issues are added automatically each week, so there's no need to send those.
 

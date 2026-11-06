@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-"""Validate quotes.csv and confirm README.md is up to date. Exits 1 on problems."""
+"""Validate quotes.csv. Exits 1 on problems."""
 import re
 import sys
 
-from build_readme import render
-from quoteslib import README_PATH, read_rows
+from quoteslib import read_rows
 
 DATE = re.compile(r"^(\d{4}-\d{2}-\d{2}|\d{4}, week \d{1,2}|2011, date unknown)$")
 
@@ -40,8 +39,6 @@ def find_problems(rows):
 def main():
     rows = read_rows()
     problems = find_problems(rows)
-    if README_PATH.read_text(encoding="utf-8") != render(rows):
-        problems.append("README.md is out of date: run python3 scripts/build_readme.py")
     for problem in problems:
         print(problem)
     if problems:
