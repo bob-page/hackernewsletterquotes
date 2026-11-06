@@ -1,0 +1,829 @@
+# Hacker Newsletter Quotes
+
+Every issue of [Hacker Newsletter](https://hackernewsletter.com/) opens with a short quote. This is an attempt to collect all of them.
+
+This is an unofficial fan project and isn't affiliated with the newsletter. Corrections and missing issues are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+**682 unique quotes from 747 issues**, newest first. 62 issue numbers are still missing.
+
+- Attributions are as printed in the newsletter and haven't been verified.
+- Dates are the date printed in each issue.
+- Before about #64 (2011), some archived pages show another issue's content, so those numbers are unreliable.
+- Issues from 2010 have no number.
+- This collection is released under [CC0 1.0](LICENSE). That covers the compilation only: rights in the quotes and the newsletter stay with their owners.
+
+<!-- Generated from quotes.csv by scripts/build_readme.py. Don't edit below this line. -->
+
+| Issue | Date | Quote | Attribution | Notes |
+| --- | --- | --- | --- | --- |
+| #817 | 2026-11-06 | The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. | G.K. Chesterton |  |
+| #816 | 2026-10-30 | Things are only impossible until they are not. | Captain Picard |  |
+| #815 | 2026-10-23 | Vision without action is a daydream. | Karthik Shankar |  |
+| #814 | 2026-10-16 | Institutions will try to preserve the problem to which they are the solution. | Clay Shirky | Dup of #224 |
+| #813 | 2026-10-09 | Whoever pays the consultant gets pretty much what they want to hear. | Matthew Stewart |  |
+| #812 | 2026-10-02 | For every complex problem, there is a solution that is clear, simple, and wrong. | H. L. Mencken |  |
+| #811 | 2026-09-25 | I refuse to join any club that would have me as a member. | Groucho Marx |  |
+| #810 | 2026-09-18 | Software is eating the world, but AI is going to eat software. | Jensen Huang |  |
+| #809 | 2026-09-11 | Let's roll. | Todd Beamer |  |
+| #808 | 2026-09-04 | The first principle is that you must not fool yourself - and you are the easiest person to fool. | Richard Feynman |  |
+| #807 | 2026-08-28 | There are decades where nothing happens; and there are weeks where decades happen. | Vladimir Ilyich Lenin |  |
+| #806 | 2026-08-21 | If it isn't done with old tools, it doesn't feel right. | Jack White |  |
+| #805 | 2026-08-14 | Always remember that you are absolutely unique. Just like everyone else. | Margaret Mead | Dup of #574 |
+| #804 | 2026-08-07 | Dreams have only one owner at a time. That's why dreamers are lonely. | Erma Bombeck |  |
+| #803 | 2026-07-31 | It ain't what they call you, it's what you answer to. | W. C. Fields |  |
+| #802 | 2026-07-24 | Act like a duck. Be calm on the surface, but paddle like hell underneath. | Oliver Luck |  |
+| #801 | 2026-07-17 | The future influences the present just as much as the past. | Friedrich Nietzsche |  |
+| #800 | 2026-07-03 | Freedom is nothing else but a chance to be better. | Albert Camus |  |
+| #799 | 2026-06-26 | If it keeps up, man will atrophy all his limbs but the push-button finger. | Frank Lloyd Wright |  |
+| #798 | 2026-06-19 | When I was a boy of fourteen, my father was so ignorant I could hardly stand to have the old man around. But when I got to be twenty-one, I was astonished at how much the old man had learned in seven years. | Mark Twain |  |
+| #797 | 2026-06-12 | Nothing is particularly hard if you divide it into small jobs. | Henry Ford |  |
+| #796 | 2026-06-05 | If you want something you've never had, you must be willing to do something you've never done. | Thomas Jefferson |  |
+| #795 | 2026-05-29 | If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month. | Theodore Roosevelt |  |
+| #794 | 2026-05-22 | We live in a world where there is more and more information, and less and less meaning. | Jean Baudrillard |  |
+| #793 | 2026-05-08 | Either you run the day or the day runs you. | Jim Rohn |  |
+| #792 | 2026-05-01 | The trouble with the rat race is that even if you win, you're still a rat. | Lily Tomlin |  |
+| #791 | 2026-04-27 | No business plan survives first contact with customers. | Eric Ries |  |
+| #790 | 2026-04-17 | I am always doing that which I can not do, in order that I may learn how to do it. | Pablo Picasso | Dup of #464 |
+| #789 | 2026-04-10 | It is good to have an end to journey towards; but it is the journey that matters in the end. | Ursula K. Le Guin |  |
+| #788 | 2026-04-03 | It's not so important who starts the game but who finishes it. | John Wooden |  |
+| #787 | 2026-03-27 | We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run. | Roy Amara |  |
+| #786 | 2026-03-13 | One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. | Tony Hoare | Body says #793 |
+| #785 | 2026-03-06 | Never let yesterday use up too much of today. | Will Rogers |  |
+| #784 | 2026-02-27 | Meetings are indispensable when you don't want to do anything. | John Galbraith | Body says #789 |
+| #783 | 2026-02-20 | We shape our tools, and thereafter our tools shape us. | Marshall McLuhan |  |
+| #782 | 2026-02-13 | Not doing something will always be faster than doing it. | James Clear |  |
+| #781 | 2026-02-06 | The most important thing to do if you find yourself in a hole is to stop digging. | Warren Buffett |  |
+| #780 | 2026-01-30 | You have succeeded in life when all you really want is only what you really need. | Vernon Howard | Delivered twice |
+| #779 | 2026-01-23 | Build something 100 people love, not something 1M people kind of like. | Brian Chesky | Dup of #777 |
+| #778 | 2026-01-16 | When I was a kid my parents moved a lot, but I always found them. | Rodney Dangerfield |  |
+| #777 | 2026-01-09 | Build something 100 people love, not something 1M people kind of like. | Brian Chesky |  |
+| #776 | 2026-01-02 | A year from now you will wish you had started today. | Karen Lamb |  |
+| #775 | 2025-12-19 | I will honor Christmas in my heart, and try to keep it all the year. | Charles Dickens |  |
+| #774 | 2025-12-12 | Creativity is the art of finding a new route to a known destination. | Simon Sinek |  |
+| #773 | 2025-12-05 | Don't worry about failure; you only have to be right once. | Drew Houston | Page says #772 |
+| #772 | 2025-11-21 | To err is human, but even more so is to blame others. | Baltazar Gracián |  |
+| #771 | 2025-11-14 | If you're not getting older, you're dead. | Tom Petty |  |
+| #770 | 2025-11-07 | Make simple things simple. | Bjarne Stroustrup |  |
+| #769 | 2025-10-31 | Behold the turtle, he makes progress only when he sticks his neck out. | Bruce Levin |  |
+| #768 | 2025-10-24 | The world always seems brighter when you've just made something that wasn't there before. | Neil Gaiman | Dup of #168 |
+| #767 | 2025-10-17 | There are three types of baseball players: Those who make it happen, those who watch it happen and those who wonder what happens. | Tommy Lasorda |  |
+| #766 | 2025-10-10 | Action is the real measure of intelligence. | Napoleon Hill |  |
+| #765 | 2025-10-03 | What you do makes a difference, and you have to decide what kind of difference you want to make. | Jane Goodall |  |
+| #764 | 2025-09-26 | Most of us spend too much time on what is urgent and not enough time on what is important. | Stephen Covey | Dup of #644 |
+| #763 | 2025-09-19 | Success doesn’t come from what you do occassionally, it comes from what you do consistently | Marie Forleo | Dup of #760 |
+| #762 | 2025-09-12 | You can't go back and change the beginning, but you can start where you are and change the ending. | C. S. Lewis |  |
+| #761 | 2025-09-05 | Always start at the end before you begin. | Robert Kiyosaki |  |
+| #760 | 2025-08-29 | Success doesn’t come from what you do occassionally, it comes from what you do consistently | Marie Forleo |  |
+| #759 | 2025-08-22 | Always do right. This will gratify some people and astonish the rest. | Mark Twain |  |
+| #758 | 2025-08-15 | Here you have been taught to fear nothing but idleness. | Lyman Hall |  |
+| #757 | 2025-08-08 | People wait all week for Friday, all year for summer, all life for happiness. | Unknown |  |
+| #756 | 2025-08-01 | There's a fine line between fishing and just standing on the shore like an idiot. | Steven Wright |  |
+| #755 | 2025-07-25 | Just because something is easy to measure doesn't mean it's important. | Seth Godin |  |
+| #754 | 2025-07-18 | The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. | Helen Keller |  |
+| #753 | 2025-07-11 | The best way out is always through. | Robert Frost | Dup of #269 |
+| #752 | 2025-06-27 | How old would you be if you didn't know how old you are? | Satchel Paige |  |
+| #751 | 2025-06-23 | If you can't get out of something, get into it. | Kris Kristofferson |  |
+| #750 | 2025-06-13 | Don't give up. Don't ever give up. | Jim Valvano |  |
+| #749 | 2025-06-06 | What you do today can improve all your tomorrows. | Ralph Marston |  |
+| #748 | 2025-05-30 | Nothing is work unless you'd rather be doing something else. | George Halas |  |
+| #747 | 2025-05-23 | A single question can be more influential than a thousand statements. | Bo Bennett |  |
+| #746 | 2025-05-16 | The only place success comes before work is in the dictionary. | Vidal Sassoon |  |
+| #745 | 2025-05-09 | It’s not easy being a mother. If it were easy, fathers would do it. | Dorothy Parker |  |
+| #744 | 2025-05-02 | When you find an idea that you just can’t stop thinking about, that’s probably a good one to pursue. | Josh James |  |
+| #743 | 2025-04-25 | Although the life of a person is in a land full of thorns and weeds, there is always a space in which the good seed can grow. | Pope Francis |  |
+| #742 | 2025-04-18 | You've got to be very careful if you don't know where you are going, because you might not get there. | Yogi Berra |  |
+| #741 | 2025-04-11 | If you don't have time to do it right, when will you have time to do it over? | John Wooden | Dup of 2010, week 29 |
+| #740 | 2025-04-04 | Go for a business that any idiot can run - because sooner or later, any idiot probably is going to run it. | Peter Lynch |  |
+| #739 | 2025-03-28 | In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. | Douglas Adams |  |
+| #738 | 2025-03-20 | All of humanity’s problems stem from our inability to sit quietly in a room alone. | Blaise Pascal |  |
+| #737 | 2025-03-14 | Deep and simple are far, far more important than shallow and complicated and fancy. | Fred Rogers |  |
+| #736 | 2025-03-07 | I find, when you're an optimist, life has a funny way of looking after you. | Simon Sinek |  |
+| #735 | 2025-02-28 | If you change the way you look at things, the things you look at change. | Wayne Dyer | Variant of #381 |
+| #734 | 2025-02-21 | If you're going through hell, keep going. | Winston Churchill |  |
+| #733 | 2025-02-14 | Nobody has ever measured, not even poets, how much the heart can hold. | Zelda Fitzgerald |  |
+| #732 | 2025-02-10 | All we have to decide is what to do with the time that is given us. | J.R.R Tolkien |  |
+| #731 | 2025-01-31 | A goal is a dream with a deadline. | Napoleon Hill |  |
+| #730 | 2025-01-24 | Ever since I made tomorrow my favorite day, I've been uncomfortable looking back. | Paul Harvey |  |
+| #729 | 2025-01-17 | To get rich, you have to be making money while you're asleep. | David Bailey |  |
+| #728 | 2025-01-10 | Only the guy who isn't rowing has time to rock the boat. | Jean-Paul Sartre |  |
+| #727 | 2025-01-03 | I don’t know where I’m going from here, but I promise it won’t be boring. | David Bowie |  |
+| #726 | 2024-12-20 | You just gotta find the fun in what you're doing. | Blue Davis |  |
+| #725 | 2024-12-13 | Crazy people don't sit around wondering if they're nuts. | Jake Gyllenhaal |  |
+| #724 | 2024-12-06 | The single biggest problem in communication is the illusion that it has taken place. | George Bernard Shaw |  |
+| #723 | 2024-11-30 | Be thankful we're not getting all the government we're paying for. | Will Rogers |  |
+| #722 | 2024-11-15 | If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime. | David Leinweber |  |
+| #721 | 2024-11-08 | The question is not what you look at, but what you see. | Henry David Thoreau |  |
+| #720 | 2024-11-01 | It is amazing what can be accomplished when nobody cares who gets the credit. | Harry Truman |  |
+| #719 | 2024-10-25 | With diligence it is possible to make anything run slowly. | Tom Duff | Dup of #111 |
+| #718 | 2024-10-11 | What lies behind you and what lies in front of you, pales in comparison to what lies inside of you. | Ralph Waldo Emerson |  |
+| #717 | 2024-09-27 | I didn't fail the test, I just found 100 ways to do it wrong. | Benjamin Franklin |  |
+| #716 | 2024-09-20 | Change is inevitable. Growth is optional. | John Maxwell |  |
+| #715 | 2024-09-06 | Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young. | Henry Ford |  |
+| #714 | 2024-08-30 | It’s better to go slowly in the right direction, than to go speeding off in the wrong direction. | Simon Sinek |  |
+| #713 | 2024-08-23 | Not everything's a lesson. Sometimes you just fail. | Dwight Schrute |  |
+| #712 | 2024-08-16 | A desk is a dangerous place from which to view the world. | John le Carre |  |
+| #711 | 2024-08-09 | What I cannot build, I do not understand. | Richard Feynman |  |
+| #710 | 2024-08-02 | The only validation I need is a paying customer. | Ben Chestnut |  |
+| #709 | 2024-07-26 | Would I rather be feared or loved? Easy – both. I want people to be afraid of how much they love me. | Michael Scott |  |
+| #708 | 2024-07-19 | Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. | Mark Twain |  |
+| #707 | 2024-07-12 | We’ve been looking for the enemy for some time now. We’ve finally found them. We’re surrounded. That simplifies the problem. | Chesty Puller |  |
+| #706 | 2024-06-28 | Happiness is having a rare steak, a bottle of whisky, and a dog to eat the rare steak. | Johnny Carson |  |
+| #705 | 2024-06-21 | Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best. | Henry Van Dyke |  |
+| #704 | 2024-06-14 | Some family trees bear an enormous crop of nuts. | Wayne Huizenga |  |
+| #703 | 2024-06-07 | I haven’t been everywhere, but it’s on my list. | Susan Sontag |  |
+| #702 | 2024-05-31 | The smallest deed is better than the greatest intention. | John Burroughs |  |
+| #701 | 2024-05-24 | I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed. | Michael Jordan |  |
+| #700 | 2024-05-17 | The only thing worse than being blind is having sight but no vision | Helen Keller |  |
+| #699 | 2024-05-10 | If you’re thinking without writing, you only think you’re thinking. | Leslie Lamport |  |
+| #698 | 2024-05-03 | There is nothing more uncommon than common sense. | Frank Lloyd Wright |  |
+| #697 | 2024-04-26 | Don't watch the clock; do what it does. Keep going. | Sam Levenson |  |
+| #696 | 2024-04-19 | The greatest value of a picture is when it forces us to notice what we never expected to see. | John W. Tukey |  |
+| #695 | 2024-04-15 | Not all those who wander are lost. | J.R.R. Tolkien |  |
+| #694 | 2024-03-29 | Always forgive your enemies - nothing annoys them so much. | Oscar Wilde |  |
+| #693 | 2024-03-22 | Before we work on artificial intelligence why don’t we do something about natural stupidity? | Steve Polyak |  |
+| #692 | 2024-03-15 | A bee is never as busy as it seems; it's just that it can't buzz any slower. | Kin Hubbard |  |
+| #691 | 2024-03-08 | We cannot solve our problems with the same thinking we used when we created them. | Albert Einstein |  |
+| #690 | 2024-03-01 | Just because I don't care, doesn't mean I don't understand. | Homer Simpson |  |
+| #689 | 2024-02-23 | A ship in port is safe, but that's not what ships are built for. | Grace Hopper | Variant of #417 |
+| #688 | 2024-02-16 | Search all the parks in all your cities; you’ll find no statues of committees. | David Ogilvy |  |
+| #687 | 2024-02-09 | The greatest contribution of a leader is to make others leaders. | Simon Sinek |  |
+| #686 | 2024-02-02 | Experience is something you don't get until just after you need it. | Steven Wright |  |
+| #685 | 2024-01-26 | Even if you're on the right track, you'll get run over if you just sit there. | Will Rogers | Subject says #684; body says #685 |
+| #684 | 2024-01-19 | Excellence is not a skill, it's an attitude. | Ralph Marston |  |
+| #683 | 2024-01-12 | To begin, begin. | William Wordsworth |  |
+| #682 | 2024-01-05 | What the new year brings to you will depend a great deal on what you bring to the new year. | Vern McLellan | Variant of #584 |
+| #681 | 2023-12-22 | Isn't it funny how day by day nothing changes, but when you look back, everything is different. | C.S. Lewis | Dup of #583 |
+| #680 | 2023-12-08 | Above all else, show the data. | Edward Tufte |  |
+| #679 | 2023-12-01 | The secret of getting ahead is getting started. | Mark Twain | Dup of #437 |
+| #678 | 2023-11-24 | We tend to forget that happiness doesn’t come as a result of getting something we don’t have, but rather of recognizing and appreciating what we do have. | Friedrich Koenig |  |
+| #677 | 2023-11-17 | You cannot escape the responsibility of tomorrow by evading it today. | Abraham Lincoln | Dup of #675; Body says #675 |
+| #676 | 2023-11-10 | People who think they know everything are a great annoyance to those of us who do. | Isaac Asimov | Dup of #605 |
+| #675 | 2023-11-03 | You cannot escape the responsibility of tomorrow by evading it today. | Abraham Lincoln |  |
+| #674 | 2023-10-27 | I think the tiniest little thing can change the course of your day, which can change the course of your year, which can change who you are. | Taylor Swift |  |
+| #673 | 2023-10-20 | Whether it's the best of times or the worst of times, it's the only time we've got. | Art Buchwald |  |
+| #672 | 2023-10-06 | Time is what keeps everything from happening at once. | Ray Cummings |  |
+| #671 | 2023-09-29 | There is nothing so useless as doing efficiently that which should not be done at all. | Peter Drucker | Dup of #409 |
+| #670 | 2023-09-22 | If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea. | Antoine de Saint-Exupery |  |
+| #669 | 2023-09-15 | My interest is in the future because I am going to spend the rest of my life there. | Charles Kettering |  |
+| #668 | 2023-09-08 | We all die. The goal isn't to live forever, the goal is to create something that will. | Chuck Palahniuk |  |
+| #667 | 2023-09-01 | Some people dream of success, while other people get up every morning and make it happen. | Wayne Huizenga |  |
+| #666 |  |  |  | Not found; #665.9 probably stands in |
+| #665.9 | 2023-08-25 | Life is like riding a bicycle. To keep your balance, you must keep moving. | Albert Einstein | Probably stands in for #666 |
+| #665 | 2023-08-19 | In every walk with nature one receives far more than he seeks. | John Muir |  |
+| #664 | 2023-08-11 | Only those who will risk going too far can possibly find out how far one can go. | T. S. Eliot |  |
+| #663 |  |  |  | Not found |
+| #662 |  |  |  | Not found |
+| #661 | 2023-07-21 | There is never enough time to do everything, but there is always enough time to do the most important thing. | Brian Tracy |  |
+| #660 | 2023-07-14 | Leaders don't create followers, they create more leaders. | Tom Peters | Dup of #624 |
+| #659 | 2023-07-07 | Youth has no age. | Pablo Picasso |  |
+| #658 | 2023-06-30 | The difference between successful people and very successful people is that very successful people say ‘no’ to almost everything. | Warren Buffett |  |
+| #657 | 2023-06-23 | Time is the longest distance between two places. | Tennessee Williams |  |
+| #656 | 2023-06-16 | Some people feel the rain, others just get wet. | Bob Marley |  |
+| #655 | 2023-06-09 | And that’s what trust is. We don’t just trust people to obey the rules, we also trust that they know when to break them. | Simon Sinek |  |
+| #654 | 2023-06-02 | People who enjoy meetings should not be in charge of anything. | Thomas Sowell | Dup of #344 |
+| #653 | 2023-05-26 | Do not fear failure, but please be terrified of regret. | DeShauna Barber |  |
+| #652 | 2023-05-19 | Customers don’t care about your solution. They care about their problems. | Dave McClure |  |
+| #651 | 2023-05-12 | Failure is the condiment that gives success its flavor. | Truman Capote |  |
+| #650 | 2023-05-05 | Too much joy, I swear, is lost in our desperation to keep it. | Ocean Vuong |  |
+| #649 | 2023-04-28 | Simplicity is about subtracting the obvious and adding the meaningful. | John Maeda | Dup of #539 |
+| #648 | 2023-04-21 | The true delight is in the finding out rather than in the knowing. | Isaac Asimov |  |
+| #647 | 2023-04-14 | Everywhere is walking distance if you have the time. | Steven Wright |  |
+| #646 | 2023-04-07 | The best way to have a good idea is to have a lot of ideas. | Linus Pauling | Variant of #192 |
+| #645 | 2023-03-31 | Participate in life instead of just watching it pass you by. | Lindsey Wonderson |  |
+| #644 | 2023-03-24 | Most of us spend too much time on what is urgent and not enough time on what is important. | Stephen Covey |  |
+| #643 | 2023-03-17 | It's not what you look at that matters, it's what you see. | Henry David Thoreau | Dup of #102 |
+| #642 | 2023-03-10 | Delegating work works, provided the one delegating works too. | Robert Half |  |
+| #641 | 2023-03-03 | People who enjoy meetings should not be in charge of anything. | Thomas Sowell | Dup of #344 |
+| #640 | 2023-02-24 | How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg. | Abraham Lincoln | Variant of #85 |
+| #639 | 2023-02-17 | A camera teaches you how to see without a camera. | Dorothea Lange |  |
+| #638 | 2023-02-10 | Do not seek prizes that aren't worth getting. | Caterina Fake |  |
+| #637 | 2023-02-03 | We know a lot of things, but what we don't know is a lot more. | Edward Witten |  |
+| #636 | 2023-01-27 | Always remember that you are absolutely unique. Just like everyone else. | Margaret Mead | Dup of #574 |
+| #635 | 2023-01-20 | Never put off till tomorrow what may be done day after tomorrow just as well. | Mark Twain |  |
+| #634 | 2023-01-13 | Success is walking from failure to failure with no loss of enthusiasm. | Winston Churchill |  |
+| #633 | 2023-01-06 | You can always get someone to do your thinking for you. | Gordie Howe |  |
+| #632 | 2022-12-31 | And now we welcome the new year. Full of things that have never been. | Rainer Maria Rilke |  |
+| #631 | 2022-12-16 | I may not have ended up where I intended to go, but I think I have ended up where I intended to be. | Douglas Adams | Variant of #389 |
+| #630 | 2022-12-09 | AI is like a box of chocolates: you never know what you're going to get. | ChatGPT |  |
+| #629 | 2022-12-02 | Creativity is just connecting things. | Steve Jobs | Dup of #165 |
+| #628 | 2022-11-18 | There is nothing so stable as change. | Bob Dylan | Dup of #184 |
+| #627 | 2022-11-04 | Life is what happens when you’re busy making other plans. | John Lennon |  |
+| #626 | 2022-10-28 | Remember that the happiest people are not those getting more, but those giving more. | Horace Jackson Brown Jr. |  |
+| #625 | 2022-10-21 | Don't worry about what anybody else is going to do. The best way to predict the future is to invent it. | Alan Kay |  |
+| #624 | 2022-10-14 | Leaders don't create followers, they create more leaders. | Tom Peters |  |
+| #623 | 2022-10-07 | I have two doctors, my left leg and my right. | G.M. Trevelyan |  |
+| #622 | 2022-09-30 | If you stop to be kind, you must swerve often from your path. | Mary Webb |  |
+| #621 | 2022-09-23 | Focus is a matter of deciding what things you're not going to do. | John Carmack |  |
+| #620 | 2022-09-16 | Management is doing things right; leadership is doing the right things. | Peter Drucker |  |
+| #619 | 2022-09-09 | Grief is the price we pay for love. | Queen Elizabeth II |  |
+| #618 | 2022-09-02 | The secret of getting ahead is getting started. | Mark Twain | Dup of #437 |
+| #617 | 2022-08-26 | Success usually comes to those who are too busy to be looking for it. | Henry David Thoreau |  |
+| #616 | 2022-08-19 | You can’t sell anything if you can’t tell anything. | Beth Comstock |  |
+| #615 | 2022-08-05 | Between every two pine trees there is a door leading to a new way of life. | John Muir |  |
+| #614 | 2022-07-29 | If debugging is the process of removing bugs, then programming must be the process of putting them in. | Edsger Dijkstra | Dup of #191 |
+| #613 | 2022-07-22 | The price of light is less than the cost of darkness. | Arthur Nielsen |  |
+| #612 | 2022-07-15 | What really matters is what you do with what you have. | H. G. Wells |  |
+| #611 | 2022-07-08 | Plans are only good intentions unless they immediately degenerate into hard work. | Peter Drucker |  |
+| #610 | 2022-07-01 | Freedom lies in being bold. | Robert Frost | Dup of #460 |
+| #609 | 2022-06-24 | You can tell whether someone is clever by their answers. You can tell whether someone is wise by their questions. | Naguib Mahfouz |  |
+| #608 | 2022-06-17 | Failure is always an option. | Adam Savage |  |
+| #607 | 2022-06-10 | There's a world of difference between insisting on someone's doing something and establishing an atmosphere in which that person can grow into wanting to do it. | Fred Rogers |  |
+| #606 | 2022-06-03 | No one is you and that is your biggest power. | Dave Grohl |  |
+| #605 | 2022-05-27 | People who think they know everything are a great annoyance to those of us who do. | Isaac Asimov |  |
+| #604 | 2022-05-20 | Happiness often sneaks in through a door you didn't know you left open. | John Barrymore |  |
+| #603 | 2022-05-13 | Technique and ability alone do not get you to the top; it is the willpower that is most important. | Junko Tabei |  |
+| #602 | 2022-05-06 | It isn't where you came from. It's where you're going that counts. | Ella Fitzgerald |  |
+| #601 | 2022-04-29 | If you ever find yourself in the wrong story, leave. | Mo Willems |  |
+| #600 | 2022-04-22 | I am always doing that which I cannot do, in order that I may learn how to do it. | Pablo Picasso | Dup of #464 |
+| #599 | 2022-04-15 | Our greatest fear should not be of failure but of succeeding at things in life that don't really matter. | Francis Chan | Dup of #232 |
+| #598 | 2022-04-08 | If everything seems under control, you’re just not going fast enough. | Mario Andretti |  |
+| #597 | 2022-04-01 | I've learned from experience that the greater part of our happiness or misery depends on our dispositions and not on our circumstances. | Martha Washington | Masthead variant: "hacker snooze letter" |
+| #596 | 2022-03-25 | Argue with idiots, and you become an idiot. | Paul Graham |  |
+| #595 | 2022-03-18 | The scout mindset is the motivation to see things as they are, not as you wish they were. | Julia Galef |  |
+| #594 | 2022-03-11 | There's only one age: alive. | Agnes Varda |  |
+| #593 | 2022-03-03 | Good design adds value faster than it adds cost. | Thomas Gale |  |
+| #592 | 2022-02-24 | The farther backward you can look, the farther forward you can see. | Winston Churchill |  |
+| #591 | 2022-02-18 | I don't want easy, just possible. | Bethany Hamilton |  |
+| #590 | 2022-02-11 | Consistency over time is trust. | Satya Nadella |  |
+| #589 | 2022-02-04 | If January is the month of change, February is the month of lasting change. January is for dreamers... February is for doers. | Marc Parent |  |
+| #588 | 2022-01-28 | What you plant now, you will harvest later. | Og Mandino |  |
+| #587 | 2022-01-21 | Sometimes we stare so long at a door that is closing that we see too late the one that is open. | Alexander Graham Bell |  |
+| #586 | 2022-01-14 | No matter what your life is, choosing it changes everything. | Andre Agassi |  |
+| #585 | 2022-01-07 | Your present circumstances don't determine where you can go; they merely determine where you start. | Nido Qubein | Dup of #130 |
+| #584 | 2021-12-31 | What the new years brings to you will depend a great deal on what you bring to the new year. | Vern McLellan |  |
+| #583 | 2021-12-17 | Isn’t it funny how day by day nothing changes, but when you look back, everything is different. | C.S. Lewis |  |
+| #582 | 2021-12-10 | One man alone can be pretty dumb sometimes, but for real bona fide stupidity, there ain't nothing can beat teamwork. | Edward Abbey |  |
+| #581 | 2021-12-03 | Success is the ability to go from one failure to another with no loss of enthusiasm. | Winston Churchill |  |
+| #580 | 2021-11-19 | When asked if my cup is half-full or half-empty my only response is that I am thankful I have a cup. | Sam Lefkowitz |  |
+| #579 | 2021-11-12 | The way to get things done is not to mind who gets the credit for doing them. | Benjamin Jowett |  |
+| #578 | 2021-11-05 | Small deeds done are better than great deeds planned. | Peter Marshall |  |
+| #577 | 2021-10-29 | Almost every failed startup has a product. What failed startups don't have are enough customers. | Gabriel Weinberg | Masthead variant: "hackerbooletter" |
+| #576 | 2021-10-22 | Most of the important things I've learned, I've learned through repeated pain. | David Cancel |  |
+| #575 |  |  |  | Not found |
+| #574 | 2021-10-08 | Always remember that you are absolutely unique. Just like everyone else. | Margaret Mead |  |
+| #573 | 2021-10-01 | Understanding motivation is one of the most important things we can do in our lives, because it has such a bearing on why we do the things we do and whether we enjoy them or not. | Clayton Christensen |  |
+| #572 | 2021-09-24 | If you are not embarrassed by the first version of your product, you’ve launched too late. | Reid Hoffman |  |
+| #571 | 2021-09-17 | They that are fated to be fools, have one consolation, that they are fated also to be ignorant of it. | Norm MacDonald |  |
+| #570 | 2021-09-10 | Don’t depend too much on anyone in this world because even your own shadow leaves you when you are in darkness. | Ibn Taymiyyah |  |
+| #569 | 2021-09-03 | It is good to have money and the things that money can buy, but it's good too, to check up once in a while and make sure you haven't lost the things money can't buy. | George Horace Lorimer |  |
+| #568 | 2021-08-27 | Think of discomfort as currency - it's the price you pay to learn some pretty crucial things. | Lilly Singh |  |
+| #567 | 2021-08-20 | Embrace what you don’t know, especially in the beginning, because what you don’t know can become your greatest asset. It ensures that you will absolutely be doing things different from everybody else. | Sara Blakely |  |
+| #566 | 2021-08-13 | Too much of anything is bad, but too much good whiskey is barely enough. | Mark Twain |  |
+| #565 | 2021-08-06 | I didn’t set out to beat the world; I just set out to do my absolute best. | Al Oerter |  |
+| #564 | 2021-07-30 | A certain amount of opposition is a great help to a man. Kites rise against, not with, the wind. | Lewis Mumford |  |
+| #563 | 2021-07-23 | If everyone is thinking alike, someone isn’t thinking. | George Patton |  |
+| #562 | 2021-07-16 | Some people see things that are and ask, Why? Some people dream of things that never were and ask, Why not? Some people have to go to work and don't have time for all that. | George Carlin |  |
+| #561 | 2021-07-09 | If you want to increase your success rate, double your failure rate. | Thomas J. Watson |  |
+| #560 | 2021-06-25 | The ones who are crazy enough to think that they can change the world are the ones who do. | John McAfee |  |
+| #559 | 2021-06-18 | I like to think of ideas as potential energy. They're really wonderful, but nothing will happen until we risk putting them into action. | Mae Jemison |  |
+| #558 | 2021-06-11 | It is an ironic habit of human beings to run faster when we have lost our way. | Rollo May |  |
+| #557 | 2021-06-04 | Change breaks the brittle. | Jan Houtema | Dup of #222 |
+| #556 | 2021-05-28 | If you really want to get along with somebody, let them be themselves. | Willie Nelson |  |
+| #555 | 2021-05-21 | Don't let the same dog bite you twice. | Chuck Berry |  |
+| #554 | 2021-05-14 | Only the dead have seen the end of war. | George Santayana |  |
+| #553 | 2021-05-07 | There's nobody in this world, nobody, that you can't learn something from. | Gordie Howe |  |
+| #552 | 2021-04-30 | I'd rather be optimistic and wrong than pessimistic and right. | Elon Musk |  |
+| #551 | 2021-04-23 | You will die but the words you speak or spoke, will live forever. | Oscar Auliq-Ice |  |
+| #550 | 2021-04-16 | I think Bigfoot is blurry, that's the problem. It's not the photographer's fault. Bigfoot is blurry, and that's extra scary to me. There's a large out-of-focus monster roaming the countryside. | Mitch Hedberg |  |
+| #549 | 2021-04-11 | I attribute my success to this: I never gave or took an excuse. | Florence Nightingale |  |
+| #548 | 2021-04-02 | Everywhere I went led me where I didn’t want to be. | Paul Simon |  |
+| #547 | 2021-03-26 | If we have data, let's look at data. If all we have are opinions, let's go with mine. | Jim Barksdale | Dup of #416 |
+| #546 | 2021-03-19 | Steal a little and they throw you in jail. Steal a lot and they make you king. | Bob Dylan |  |
+| #545 | 2021-03-12 | Code is made of pain, lies, and bad ideas, all so we can pretend that electrified sand will do what we tell it to. | Yoz Grahame |  |
+| #544 | 2021-03-05 | Growth and comfort do not coexist. | Ginni Rometty |  |
+| #543 | 2021-02-26 | An artist is waiting for the audience to understand the work. A craftsman is working to understand the audience. | Mo Willems |  |
+| #542 | 2021-02-19 | I disagree strongly with whatever work this quote is attached to. | Randall Munroe |  |
+| #541 | 2021-02-12 | A ship in the harbor is safe, but that is not what ships are built for. | John A. Shedd | Variant of #417 |
+| #540 | 2021-02-05 | Never let your schooling interfere with your education. | Mark Twain |  |
+| #539 | 2021-01-29 | Simplicity is about subtracting the obvious and adding the meaningful. | John Maeda |  |
+| #538 | 2021-01-22 | You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. | Dr. Seuss |  |
+| #537 | 2021-01-15 | At the end of the day, we can endure much more than we think we can. | Frida Kahlo |  |
+| #536 | 2021-01-08 | To be good, and to do good, is all we have to do. | John Adams |  |
+| #535 | 2021-01-02 | We cannot start over, but we can begin now and make a new ending. | James Sherman |  |
+| #534 | 2020-12-19 | Our hopes are fed by others. | MacKenzie Scott |  |
+| #533 | 2020-12-11 | Rules are made for people who aren't willing to make up their own. | Chuck Yeager |  |
+| #532 | 2020-12-04 | Everybody gets so much information all day long that they lose their common sense. | Gertrude Stein | Variant of #359 |
+| #531 | 2020-11-28 | People may not remember exactly what you did or what you said but they always remember how you made them feel, that’s what matters the most. | Tony Hsieh | Masthead variant: "hacker news letter lite" |
+| #530 | 2020-11-20 | Enjoy the little things, for one day you may look back and realize they were the big things. | Robert Brault |  |
+| #529 | 2020-11-13 | My life has been a quest for knowledge and understanding, and I am nowhere near having achieved that. And it doesn't bother me in the least. I will die without having come up with the answers to many things in life. | Alex Trebek |  |
+| #528 | 2020-11-06 | If you can find a path with no obstacles, it probably doesn’t lead anywhere. | Frank A. Clark | Variant of #29 |
+| #527 | 2020-10-30 | A fool with a tool is still a fool. | Grady Booch |  |
+| #526 | 2020-10-23 | You can't use up creativity. The more you use the more you have. | Maya Angelou |  |
+| #525 | 2020-10-16 | There are years that ask questions and years that answer. | Zora Neale Hurston |  |
+| #524 | 2020-10-09 | Nothing of me is original. I am the combined effort of everyone I’ve ever known. | Chuck Palahniuk | Variant of #368 |
+| #523 | 2020-10-02 | The problems are solved, not by giving new information, but by arranging what we have known since long. | Ludwig Wittgenstein |  |
+| #522 | 2020-09-25 | I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me. | Ralph Waldo Emerson |  |
+| #521 | 2020-09-18 | So often people are working hard at the wrong thing. Working on the right thing is probably more important than working hard. | Caterina Fake |  |
+| #520 | 2020-09-11 | Enjoy failure and learn from it. You can never learn from success. | James Dyson |  |
+| #519 | 2020-09-04 | There is a difference between knowing the path & walking the path. | Morpheus |  |
+| #518 | 2020-08-28 | I have not failed. I've just found 10,000 ways that won't work. | Thomas Edison |  |
+| #517 | 2020-08-21 | Technology is a big destroyer of emotion and truth. Auto-tuning doesn’t do anything for creativity. Yeah, it makes it easier and you can get home sooner, but it doesn’t make you a more creative person. That’s the disease we have to fight in any creative field: ease of use. | Jack White |  |
+| #516 | 2020-08-14 | Death is my exit strategy. I'll be doing significant customer service only as long as I live. | Craig Newmark |  |
+| #515 | 2020-08-07 | Busy is what happens when you're at the mercy of someone else's schedule. | Derek Sivers |  |
+| #514 | 2020-07-31 | Get enough sleep. | Christopher Knight |  |
+| #513 | 2020-07-24 | To create, one must first question everything. | Eileen Gray |  |
+| #512 | 2020-07-17 | Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity. | Aaron Swartz | Dup of #386 |
+| #511 | 2020-07-10 | I think most programmers spend the first 5 years of their career mastering complexity, and the rest of their lives learning simplicity. | Buzz Andersen |  |
+| #510 | 2020-06-26 | Do not be afraid to make decisions. Do not be afraid to make mistakes. | Carly Fiorina |  |
+| #509 | 2020-06-18 | Your mind is made for having ideas, not for holding ideas. | Anil Dash |  |
+| #508 | 2020-06-12 | Everything I did along the way helped me get here. No part could be omitted and have me still end up where I am today. | Tope Awotona |  |
+| #507 | 2020-06-05 | The time is always right to do what is right. | Martin Luther King Jr. |  |
+| #506 | 2020-05-29 | A well-defined problem is half solved. | Charles Kettering |  |
+| #505 | 2020-05-22 | If you don't know where you're going, any road'll take you there. | Lewis Carroll |  |
+| #504 | 2020-05-15 | Run toward the hardest problems. This approach has helped me to learn a tremendous amount from both success and failure. | Lisa Su |  |
+| #503 | 2020-05-08 | Don't ever take a fence down until you know why it was put up. | Robert Frost | Dup of #320; Masthead joke: "service unavailable" |
+| #502 | 2020-05-01 | I think we need more ambition about using our data to make our lives better. | Hilary Mason | Masthead joke: "bad gateway" |
+| #501 | 2020-04-24 | So much complexity in software comes from trying to make one thing do two things. | Ryan Singer | Dup of #87 |
+| #500 | 2020-04-17 | Read 500 pages like this every day. That’s how knowledge works. It builds up, like compound interest. All of you can do it, but I guarantee not many of you will do it. | Warren Buffett |  |
+| #499 | 2020-04-10 | When I get to heaven, I’m gonna shake God’s hand. Thank him for more blessings than one man can stand. | John Prine |  |
+| #498 | 2020-04-03 | Price is what you pay. Value is what you get. | Warren Buffett |  |
+| #497 | 2020-03-27 | Don't throw good time after bad work. | Jason Fried |  |
+| #496 | 2020-03-20 | You live and learn. At any rate, you live. | Douglas Adams |  |
+| #495 | 2020-03-13 | I wouldn't ask anyone to do anything I wouldn't do myself. | Indra Nooyi |  |
+| #494 | 2020-03-06 | Time is the scarcest resource and unless it is managed nothing else can be managed. | Peter Drucker |  |
+| #493 | 2020-02-28 | Don't make up problems you don't have yet. It's not a problem until it's a real problem. Most of the things you worry about never happen anyway. | Jason Fried |  |
+| #492 | 2020-02-21 | Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. | Brian Kernighan |  |
+| #491 | 2020-02-14 | It is always wise to look ahead, but difficult to look further than you can see. | Winston Churchill |  |
+| #490 | 2020-02-07 | Facts are stubborn, but statistics are more pliable. | Mark Twain |  |
+| #489 | 2020-01-31 | If you wish to forget anything on the spot, make a note that this thing is to be remembered. | Edgar Allan Poe |  |
+| #488 | 2020-01-24 | Every time you act, you get to decide who you are and want to be. | Kieran Snyder |  |
+| #487 | 2020-01-17 | The best way out is always through. | Robert Frost | Dup of #269 |
+| #486 | 2020-01-10 | We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. | Bill Gates |  |
+| #485 | 2020-01-03 | There are far, far better things ahead than any we leave behind. | C.S. Lewis | Dup of #128 |
+| #484 | 2019-12-20 | It's the little details that are vital. Little things make big things happen. | John Wooden | Dup of #209 |
+| #483 | 2019-12-13 | A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools. | Douglas Adam |  |
+| #482 | 2019-12-06 | We can only see a short distance ahead, but we can see plenty there that needs to be done. | Alan Turing |  |
+| #481 | 2019-11-29 | I may not be where I want to be but I'm thankful for not being where I used to be. | Habeeb Akande |  |
+| #480 | 2019-11-22 | It's very important in life to know when to shut up. You should not be afraid of silence. | Alex Trebek |  |
+| #479 | 2019-11-15 | It is better to offer no excuse than a bad one. | George Washington |  |
+| #478 |  |  |  | Not found |
+| #477 | 2019-11-01 | Do what you love and tomorrow will pay the rent. | Felix Sockwell |  |
+| #476 | 2019-10-26 | Many of life's failures are people who did not realize how close they were to success when they gave up. | Thomas Edison |  |
+| #475 | 2019-10-18 | A big business starts small. | Richard Branson |  |
+| #474 | 2019-10-11 | I do not always know what I want, but I do know what I don't want. | Stanley Kubrick |  |
+| #473 | 2019-10-04 | I cannot afford to waste my time making money. | Louis Agassiz |  |
+| #472 | 2019-09-27 | Someone's sitting in the shade today because someone planted a tree a long time ago. | Warren Buffett |  |
+| #471 | 2019-09-20 | Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen. | John Steinbeck |  |
+| #470 | 2019-09-13 | I never let my schooling get in the way of my education. | Mark Twain |  |
+| #469 | 2019-09-06 | The traveler sees what he sees, the tourist sees what he has come to see. | G. K. Chesterton |  |
+| #468 | 2019-08-30 | When a team takes ownership of its problems, the problem gets solved. It is true on the battlefield, it is true in business, and it is true in life. | Jocko Willink |  |
+| #467 | 2019-08-23 | I don't know why people hire architects and then tell them what to do. | Frank Gehry |  |
+| #466 | 2019-08-16 | Have the wisdom to know where you are comfortable. | Raymond Charles Babb |  |
+| #465 | 2019-08-09 | I object to doing things that computers can do. | Olin Shivers | Dup of #369 |
+| #464 | 2019-08-02 | I am always doing that which I can not do, in order that I may learn how to do it. | Pablo Picasso |  |
+| #463 | 2019-07-26 | There was no choice but to be pioneers. | Margaret Hamilton |  |
+| #462 | 2019-07-19 | Where there is data smoke, there is business fire. | Thomas Redman |  |
+| #461 | 2019-07-12 | The best way to find any and all errors is to publish your work. | Dan Vore |  |
+| #460 | 2019-07-05 | Freedom lies in being bold. | Robert Frost |  |
+| #459 | 2019-06-28 | At the age of 20, we don’t care what the world thinks of us; at 30, we worry about what it is thinking of us; at 40, we discover that it wasn’t thinking of us at all. | Unknown |  |
+| #458 | 2019-06-21 | Where do new ideas come from? The answer is simple: differences. Creativity comes from unlikely juxtapositions. | Nicholas Negroponte |  |
+| #457 | 2019-06-14 | Sometimes magic is just someone spending more time on something than anyone else might reasonably expect. | Teller |  |
+| #456 | 2019-06-07 | We build our computer systems the way we build our cities: over time, without a plan, on top of ruins. | Ellen Ullman |  |
+| #455 | 2019-05-31 | You can observe a lot just by watching. | Yogi Berra | Dup of #443 |
+| #454 | 2019-05-24 | Most entrepreneurs fall in love with the wrong thing. They fall in love with their products and their business when they should be falling in love with their clients and customers. | Jay Abraham |  |
+| #453 | 2019-05-17 | In my 20s, I was thrashing around in the water to stay above it. In my 30s, I've realized the water is only three feet deep... so I just stood up. | Leslie Bradshaw |  |
+| #452 | 2019-05-10 | For years I wanted to be older, and now I am. | Margaret Atwood |  |
+| #451 | 2019-05-02 | Begin with the end in mind. | Lana Rigsby | Page says #453 |
+| #450 | 2019-04-26 | If you knew how much work went into it, you would not call it genius. | Michelangelo |  |
+| #449 | 2019-04-19 | Group chat is like being in an all-day meeting with random participants and no agenda. | Jason Fried |  |
+| #448 | 2019-04-12 | Everything we do communicates. | Pete Episcopo |  |
+| #447 | 2019-04-05 | Do not seek to change what has come before. Seek to create that which has not. | David Airey |  |
+| #446 | 2019-03-29 | If at first the idea is not absurd, then there is no hope for it. | Albert Einstein | Dup of #169 |
+| #445 | 2019-03-22 | Everyone wants to live on top of the mountain, but all the happiness and growth occurs while you're climbing it. | Andy Rooney |  |
+| #444 | 2019-03-15 | I spent half my life trying to figure out how to do a fifty dollar job for fifty cents. I spent the other half looking for the fifty cents. | Dave Gingery |  |
+| #443 | 2019-03-08 | You can observe a lot just by watching. | Yogi Berra |  |
+| #442 | 2019-03-01 | If opportunity doesn’t knock, build a door. | Adrienne Gusoff | Page says #441 |
+| #441 | 2019-02-22 | To err is human, but to really foul things up you need a computer. | Paul Ehrlich |  |
+| #440 | 2019-02-15 | When you make something no one hates, no one loves it. | Tibor Kalman |  |
+| #439 | 2019-02-08 | We are so busying measuring public opinion that we forget we can mold it. We are so busy listening to statistics we forget we can create them. | Bill Bernbach |  |
+| #438 | 2019-02-01 | I've learned over decades of building that a deadline is a potent tool for problem-solving. | Adam Savage |  |
+| #437 | 2019-01-25 | The secret of getting ahead is getting started. | Sally Berger |  |
+| #436 | 2019-01-18 | Some day, you’ll have a telephone with a screen and you’ll be able to dial a book. | Fred Bass |  |
+| #435 | 2019-01-11 | I want to do one thing and do it well. | Jan Koum |  |
+| #434 | 2019-01-04 | Coming back to where you started is not the same as never leaving. | Terry Pratchett |  |
+| #433 | 2019-01-02 | There are many ways of going forward, but only one way of standing still. | Franklin D. Roosevelt | Dup of #221 |
+| #432 | 2018-12-21 | Don't let your happiness depend on something you may lose. | C. S. Lewis |  |
+| #431 | 2018-12-14 | Best things in life aren't things. | Mike Ness |  |
+| #430 | 2018-12-07 | People don't want to buy a quarter-inch drill, they want a quarter-inch hole. | Theodore Levitt |  |
+| #429 | 2018-11-30 | Testing one user early in the project is better than testing fifty near the end. | Steve Krug | Dup of #161 |
+| #428 | 2018-11-16 | There is an unmistakeable difference between a bag of rabbit parts and a rabbit. | Ryan Nance |  |
+| #427 | 2018-11-09 | You manage things, you lead people. We went overboard on management and forgot about leadership. | Grace Hopper |  |
+| #426 | 2018-11-02 | Creative thinking may mean simply the realization that there’s no particular virtue in doing things the way they have always been done. | Davey Coleman |  |
+| #425 | 2018-10-26 | If you owe the bank $100 that's your problem. If you owe the bank $100 million, that's the bank's problem. | Jean Paul Getty |  |
+| #424 | 2018-10-19 | You do not need to have a great idea before you can begin working; you need to begin working before you can have a great idea. | Josh Collinsworth | Page says #425 |
+| #423 | 2018-10-12 | Write it down. You will lose thoughts, you thought, that you thought. | Vanessa Workoff |  |
+| #422 | 2018-10-05 | I have stood on a mountain of no’s for one yes. | B. Smith |  |
+| #421 | 2018-09-28 | If stress is a weed, urgency is the seed. Don’t plant it if you can help it. | Jason Fried |  |
+| #420 | 2018-09-21 | Sustaining a successful business is a hell of a lot of work, and staying hungry is half the battle. | Wendy Tan White |  |
+| #419 | 2018-09-14 | I use procrastination as a guide from my inner self. | Nassim Taleb |  |
+| #418 | 2018-09-07 | Every damn thing is your own fault, if you’re any good. | Ernest Hemingway | Masthead joke: "i'm a teapot" |
+| #417 | 2018-08-30 | A ship in harbor is safe, but that is not what ships are built for. | Grace Hopper |  |
+| #416 | 2018-08-24 | If we have data, let’s look at data. If all we have are opinions, let’s go with mine. | Jim Barksdale |  |
+| #415 |  |  |  | Not found |
+| #414 | 2018-08-10 | When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down ‘happy.’ They told me I didn’t understand the assignment, and I told them they didn’t understand life. | Nick Offerman |  |
+| #413 | 2018-08-03 | When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us. | Helen Keller |  |
+| #412 | 2018-07-27 | There is at least one point in the history of any company when you have to change dramatically to rise to the next level of performance. Miss that moment - and you start to decline. | Andy Grove |  |
+| #411 | 2018-07-20 | In the long run there is no more exhilarating experience than to determine one's position, state it bravely and then act boldly. | Eleanor Roosevelt |  |
+| #410 | 2018-07-13 | If you talk to the animals they will talk with you and you will know each other. If you do not talk to them you will not know them and what you do not know, you will fear. What one fears, one destroys. | Chief Dan George |  |
+| #409 | 2018-06-29 | There is nothing so useless as doing efficiently that which should not be done at all. | Peter Drucker |  |
+| #408 | 2018-06-22 | Art is the elimination of the unnecessary. | Pablo Picasso |  |
+| #407 | 2018-06-15 | As you move through this life and this world you change things slightly, you leave marks behind, however small. And in return, life — and travel — leaves marks on you. Most of the time, those marks — on your body or on your heart — are beautiful. Often, though, they hurt. | Anthony Bourdain |  |
+| #406 | 2018-06-08 | Well done is better than well said. | Benjamin Franklin |  |
+| #405 | 2018-06-01 | A business that makes nothing but money is a poor business. | Henry Ford |  |
+| #404 | 2018-05-25 | Even if you fall on your face, you're still moving forward. | Victor Kiam | Masthead joke: "Not Found" |
+| #403 | 2018-05-18 | Focused, hard work is the real key to success. Keep your eyes on the goal, and just keep taking the next step towards completing it. If you aren't sure which way to do something, do it both ways and see which works better. | John Carmack |  |
+| #402 | 2018-05-11 | I don’t believe in psychology. I believe in good moves. | Bobby Fischer |  |
+| #401 | 2018-05-04 | The computing scientist’s main challenge is not to get confused by the complexities of his own making. | Edsger Dijkstra |  |
+| #400 | 2018-04-27 | Ambition should be made of sterner stuff. | Shakespeare |  |
+| #399 | 2018-04-20 | Most employees never look up. | Amy Hoy |  |
+| #398 | 2018-04-13 | Never fear starting. Fear never starting. | Ryan Lilly | Page says #4398 (typo) |
+| #397 | 2018-04-06 | Hide not your talents. They for use were made. What's a sundial in the shade? | Benjamin Franklin |  |
+| #396 | 2018-03-30 | Don't use words too big for the subject. Don't say 'infinitely' when you mean 'very'; otherwise you'll have no word left when you want to talk about something really infinite. | C.S Lewis |  |
+| #395 | 2018-03-23 | If you’re always right then something’s wrong. | Kelsey Hightower |  |
+| #394 | 2018-03-16 | Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious. | Stephen Hawking |  |
+| #393 | 2018-03-09 | You only live once, but if you do it right, once is enough. | Mae West |  |
+| #392 | 2018-03-02 | When someone shows you who they are, believe them the first time. | Maya Angelou |  |
+| #391 | 2018-02-26 | The cheapest, fastest, and most reliable components are those that aren't there. | Gordon Bell | Dup of #193 |
+| #390 |  |  |  | Not found |
+| #389 | 2018-02-09 | I may not have gone where I intended to go, but I think I have ended up where I needed to be. | Douglas Adams |  |
+| #388 | 2018-02-02 | Life's too short to hang out with people who aren’t resourceful. | Jeff Bezos |  |
+| #387 | 2018-01-26 | The ultimate unit test is whether or not users want to use your application. All the other tests you write are totally irrelevant until you can get that one to pass. | Jeff Atwood |  |
+| #386 | 2018-01-19 | Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity. | Aaron Swartz |  |
+| #385 | 2018-01-12 | The difference between a success and a failure is often so slight that a reputation for succeeding will ensure success, and a reputation for failing will ensure failure. | Arnold Bennett |  |
+| #384 | 2018-01-05 | Reach forward to what lies ahead. | Lailah Gifty Akita |  |
+| #383 | 2017-12-29 | The clock never stops, never stops, never waits. We're growing old. It's getting late. | Ben Folds |  |
+| #382 | 2017-12-22 | If you're an entrepreneur, following business advice is not bad–but there will be a time when your business needs you to un-follow everyone and just lead. | Ben Chestnut |  |
+| #381 | 2017-12-15 | When you change the way you look at things, the things you look at change. | Jiddu Krishnamurti |  |
+| #380 | 2017-12-08 | It's not about ideas. It's about making ideas happen. | Scott Belsky | Dup of #207 |
+| #379 | 2017-12-01 | I have never witnessed, nor will I live long enough to witness, a more simplistic crime than me stealing your identity. | Frank Abagnale |  |
+| #378 | 2017-11-17 | Don't build features you won't personally use. If they break you won't notice and when you're informed you won't care. | Shaun Inman |  |
+| #377 | 2017-11-10 | You have to recognize that every out-front maneuver you make is going to be uncomfortable. That warm sense of everything going well is usually the body temperature at the center of the herd. | Irv Grousbeck |  |
+| #376 | 2017-11-03 | Giving up on our long-term goals for immediate gratification, my friends, is procrastination. | Dan Ariely |  |
+| #375 | 2017-10-27 | The question isn't who is going to let me; it's who is going to stop me. | Ayn Rand |  |
+| #374 | 2017-10-20 | The medium is the message. | Marshall McLuhan |  |
+| #373 | 2017-10-13 | When in doubt, use brute force. | Ken Thompson |  |
+| #372 | 2017-10-06 | Do something you really like, and hopefully it pays the rent. As far as I'm concerned, that's success. | Tom Petty |  |
+| #371 | 2017-09-29 | It's okay to have your eggs in one basket as long as you control what happens to that basket. | Elon Musk |  |
+| #370 | 2017-09-22 | Design is intelligence made visible. | Alina Wheeler |  |
+| #369 | 2017-09-15 | I object to doing things that computers can do. | Olin Shivers |  |
+| #368 | 2017-09-08 | Nothing of me is original. I am the combined effort of everybody I've ever known. | Chuck Palahniuk |  |
+| #367 | 2017-09-01 | Never give in, never give in, never, never, never, never—in nothing, great or small, large or petty—never give in except to convictions of honor and good sense. | Winston Churchill |  |
+| #366 | 2017-08-25 | When the enemy is making a false movement we must take good care not to interrupt him. | Napoleon |  |
+| #365 | 2017-08-18 | Change breaks the brittle. | Jan Houtema | Dup of #222 |
+| #364 | 2017-08-11 | If you do what you always did, you will get what you always got. | Albert Einstein |  |
+| #363 | 2017-08-04 | Nice is better than not nice. | Shady Lain |  |
+| #362 | 2017-07-28 | You know that you are not a good programmer when you don't see any problems that need to be solved. | Barry Jones |  |
+| #361 | 2017-07-21 | You can't sell someone the solution before they've bought the problem. | Chip Morningstar |  |
+| #360 | 2017-07-14 | One of the greatest ways to avoid trouble is to keep it simple. | Charlie Munger |  |
+| #359 | 2017-07-07 | Everyone gets so much information all day long that they lose their common sense. | Gertrude Stein |  |
+| #358 | 2017-06-30 | Freedom is the oxygen of the soul. | Moshe Dayan |  |
+| #357 | 2017-06-23 | Motion is tranquility. | Sterling Moss |  |
+| #356 | 2017-06-17 | Your users are your guidepost. And the way you stay on the right path in the early stages of a startup is to build stuff and talk to users. And nothing else. | Jessica Livingston |  |
+| #355 | 2017-06-09 | No one ever discovered anything new by coloring inside the lines. | Thomas Vasquez |  |
+| #354 | 2017-06-02 | Life is like a ten speed bicycle. Most of us have gears we never use. | Charles M. Schulz |  |
+| #353 | 2017-05-26 | If you think it's expensive to hire a professional to do the job, wait until you hire an amateur. | Red Adair |  |
+| #352 | 2017-05-19 | We can’t solve problems by using the same kind of thinking we used when we created them. | Albert Einstein | Dup of #230 |
+| #351 | 2017-05-12 | Clarity about what matters provides clarity about what does not. | Cal Newport |  |
+| #350 | 2017-05-05 | It’s not what you look at that matters, it’s what you see. | Henry David Thoreau | Dup of #102 |
+| #349 | 2017-04-28 | Who you are, what you think, feel, and do, what you love — is the sum of what you focus on. | Cal Newport |  |
+| #348 | 2017-04-21 | In theory, there is no difference between theory and practice. But, in practice, there is. | Jan L. A. van de Snepscheut |  |
+| #347 | 2017-04-14 | We meet no ordinary people in our lives. | C.S. Lewis |  |
+| #346 | 2017-04-07 | Smart people are attracted to stories, not feature lists. | Johnnie Manzari |  |
+| #345 | 2017-03-31 | The letter I have written today is longer than usual because I lacked the time to make it shorter. | Blaise Pascal |  |
+| #344 | 2017-03-24 | People who enjoy meetings should not be in charge of anything. | Thomas Sowell |  |
+| #343 | 2017-03-17 | Men have become tools of their tools. | Henry David Thoreau |  |
+| #342 | 2017-03-10 | It's not about ideas. It's about making ideas happen. | Scott Belsky | Dup of #207 |
+| #341 | 2017-03-03 | The trouble with so many of us is that we underestimate the power of simplicity. | Robert Stuberg |  |
+| #340 | 2017-02-24 | Stop imagining what's going to work. Find out for real. | Jason Fried |  |
+| #339 | 2017-02-17 | We read best what we read most. | Zuzana Licko |  |
+| #338 | 2017-02-10 | Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law. | Douglas Hofstadter | Attribution added; not printed in the issue |
+| #337 | 2017-02-03 | Nothing is more terrible than activity without insight. | Thomas Carlyle |  |
+| #336 | 2017-01-27 | The definition of an expert is someone who knows what not to do. | Charles Willson |  |
+| #335 | 2017-01-20 | What's missing isn't the ideas... it's the will to execute them. | Seth Godin |  |
+| #334 | 2017-01-13 | One accurate measurement is worth more than a thousand expert opinions. | Grace Hopper |  |
+| #333 | 2017-01-07 | Sometimes there is no need to be either clever or original. | Ivan Chermayeff | Dup of #219 |
+| #332 | 2016-12-30 | What you see and what you hear depends a great deal on where you are standing. | C.S. Lewis |  |
+| #331 | 2016-12-16 | Most of what we see that we call information doesn’t inform, and most questions do not have a quest. | Richard Saul Wurman |  |
+| #330 | 2016-12-09 | I don't know what you can say about a day when you see four beautiful sunsets…. This is a little unusual, I think. | John Glenn |  |
+| #329 | 2016-12-02 | Now that we can do anything, what should we do? | Bill Buxton |  |
+| #328 | 2016-11-26 | The best way out is always through. | Robert Frost | Dup of #269 |
+| #327 | 2016-11-18 | Real programmers can write assembly code in any language. | Larry Wall |  |
+| #326 | 2016-11-11 | You have to finish things — that's what you learn from, you learn by finishing things. | Neil Gaiman |  |
+| #325 | 2016-11-04 | The only thing more expensive than writing software is writing bad software. | Alan Cooper |  |
+| #324 | 2016-10-28 | If I can’t picture it, I can’t understand it. | Albert Einstein |  |
+| #323 | 2016-10-21 | Working ten hour days allows you to fall behind twice as fast as you could working five hour days. | Issac Assimov |  |
+| #322 | 2016-10-14 | Know thy user, and you are not thy user. | Arnie Lund |  |
+| #321 | 2016-10-07 | It doesn’t make sense to hire smart people and then tell them what to do; we hire smart people so they can tell us what to do. | Steve Jobs |  |
+| #320 | 2016-09-30 | Don't ever take a fence down until you know why it was put up. | Robert Frost |  |
+| #319 | 2016-09-23 | He who seeks rest finds boredom. He who seeks work finds rest. | Dylan Thomas |  |
+| #318 | 2016-09-16 | Experts are rarely insulted by something that is clear enough for beginners. Everybody appreciates clarity. | Steve Krug |  |
+| #317 |  |  |  | Not found |
+| #316 |  |  |  | Not found |
+| #315 |  |  |  | Not found |
+| #314 |  |  |  | Not found |
+| #313 |  |  |  | Not found |
+| #312 |  |  |  | Not found |
+| #311 |  |  |  | Not found |
+| #310 |  |  |  | Not found |
+| #309 |  |  |  | Not found |
+| #308 | 2016-07-08 | One should not pursue goals that are easily achieved. One must develop an instinct for what one can just barely achieve through one's greatest efforts. | Albert Einstein |  |
+| #307 |  |  |  | Not found |
+| #306 | 2016-06-23 | From the moment I picked your book up until I laid it down I was convulsed with laughter. Some day I intend on reading it. | Groucho Marx |  |
+| #305 |  |  |  | Not found |
+| #304 |  |  |  | Not found |
+| #303 | 2016-06-03 | Stop. I’m not going to take any more input until I’ve made something with what I got. | Merlin Mann |  |
+| #302 |  |  |  | Not found |
+| #301 |  |  |  | Not found |
+| #300 | 2016-05-13 | Take wrong turns. Talk to strangers. Open unmarked doors. And if you see a group of people in a field, go find out what they are doing. Do things without always knowing how they’ll turn out. | Randall Munroe |  |
+| #299 |  |  |  | Not found |
+| #298 |  |  |  | Not found |
+| #297 | 2016-04-22 | No, Watson, this was not done by accident, but by design. | Sherlock Holmes |  |
+| #296 |  |  |  | Not found |
+| #295 |  |  |  | Not found |
+| #294 |  |  |  | Not found |
+| #293 |  |  |  | Not found |
+| #292 |  |  |  | Not found |
+| #291 | 2016-03-11 | If a thing is worth doing, it is worth doing badly. | G.K. Chesterton |  |
+| #290 |  |  |  | Not found |
+| #289 |  |  |  | Not found |
+| #288 |  |  |  | Not found |
+| #287 | 2016-02-12 | It takes a lot of effort to make something seem effortless. | Alexander Isley |  |
+| #286 |  |  |  | Not found |
+| #285 |  |  |  | Not found |
+| #284 |  |  |  | Not found |
+| #283 |  |  |  | Not found |
+| #282 |  |  |  | Not found |
+| #281 |  |  |  | Not found |
+| #280 | 2015-12-18 | I can never stand still. I must explore and experiment. I am never satisfied with my work. I resent the limitations of my own imagination. | Walt Disney |  |
+| #279 |  |  |  | Not found |
+| #278 |  |  |  | Not found |
+| #277 |  |  |  | Not found |
+| #276 |  |  |  | Not found |
+| #275 |  |  |  | Not found |
+| #274 |  |  |  | Not found |
+| #273 |  |  |  | Not found |
+| #272 | 2015-10-09 | Learn from the mistakes of others. You can’t live long enough to make them all yourself. | Eleanor Roosevelt |  |
+| #271 | 2015-10-02 | Reading is one form of escape. Running for your life is another. | Lemony Snicket |  |
+| #270 |  |  |  | Not found |
+| #269 | 2015-09-18 | The best way out is always through. | Robert Frost |  |
+| #268 |  |  |  | Not found |
+| #267 |  |  |  | Not found |
+| #266 | 2015-08-28 | We're even wrong about which mistakes we're making. | Carl Winfeld |  |
+| #265 |  |  |  | Not found |
+| #264 | 2015-08-14 | Don't measure anything unless the data helps you make a better decision or change your actions. | Seth Godin |  |
+| #263 |  |  |  | Not found |
+| #262 |  |  |  | Not found |
+| #261 |  |  |  | Not found |
+| #260 |  |  |  | Not found |
+| #259 | 2015-07-10 | Purpose is the new bottom line. | Casey Gerald |  |
+| #258 |  |  |  | Not found |
+| #257 |  |  |  | Not found |
+| #256 |  |  |  | Not found |
+| #255 |  |  |  | Not found |
+| #254 |  |  |  | Not found |
+| #253 |  |  |  | Not found |
+| #252 |  |  |  | Not found |
+| #251 | 2015-05-08 | Wikipedia is the first place I go when I'm looking for knowledge... or when I want to create some. | Stephen Colbert |  |
+| #250 | 2015-05-01 | It’s not where you take things from—it’s where you take them to. | Jean-Luc Godard |  |
+| #249 | 2015-04-24 | However beautiful the strategy, you should occasionally look at the results. | Winston Churchill |  |
+| #248 | 2015-04-17 | Your best work involves timing. If someone wrote the best hip hop song of all time in the Middle Ages, he had bad timing. | Scott Adams |  |
+| #247 | 2015-04-10 | If debugging is the process of removing bugs, then programming must be the process of putting them in. | Edsger Dijkstra | Dup of #191 |
+| #246 | 2015-04-03 | Theory can blind observation. | Carol Gilligan |  |
+| #245 | 2015-03-27 | Whoever best describes the problem, is the one most likely to solve it. | Dan Roam |  |
+| #244 | 2015-03-20 | Absorb what is useful, discard what is not, add what is uniquely your own. | Bruce Lee |  |
+| #243 | 2015-03-13 | Sometimes when I'm talking, my words can't keep up with my thoughts. I wonder why we think faster than we speak. Probably so we can think twice. | Bill Watterson |  |
+| #242 | 2015-03-06 | Each of us... at some time in our lives, turns to someone - a father, a brother, a God and asks "Why am I here? What was I meant to be? | Spock |  |
+| #241 | 2015-02-27 | We make lists of things we want to remember, and then we lose the lists. | Jonathan Lethem |  |
+| #240 | 2015-02-20 | The process is really just Iterate, Iterate, Iterate. | Chris Clark |  |
+| #239 | 2015-02-13 | What do you think the story is that I should tell? | David Carr |  |
+| #238 | 2015-02-06 | The entire art of teaching is only the art of awakening the natural curiosity of the young mind for the purpose of satisfying it later. | Anatole France |  |
+| #237 | 2015-01-30 | Wherever possible I try to communicate asynchronously. | Elon Musk |  |
+| #236 | 2015-01-23 | My goal is not to fail fast. My goal is to succeed over the long run. They are not the same thing. | Marc Andreessen |  |
+| #235 | 2015-01-16 | The two most important days in your life are the day you are born and the day you find out why. | Mark Twain |  |
+| #234 | 2015-01-09 | Wondering is the seed of genius. | William Mocca |  |
+| #233 | 2015-01-02 | An inexperienced observer sees everything in a picture; the experienced one sees even the things that are missing. | Rastko Ciric |  |
+| #232 | 2014-12-26 | Our greatest fear should not be of failure but of succeeding at things in life that don't really matter. | Francis Chan |  |
+| #231 | 2014-12-19 | Engineering is the science of doing things over again. | Jack Steiner |  |
+| #230 | 2014-12-12 | We can’t solve problems by using the same kind of thinking we used when we created them. | Albert Einstein |  |
+| #229 | 2014-12-05 | If you ever find that you're the most talented person in the room, you need to find another room. | Austin Kleon |  |
+| #228 | 2014-12-01 | Whenever you find yourself on the side of the majority, it is time to pause and reflect. | Mark Twain |  |
+| #227 | 2014-11-21 | The first rule of intelligent tinkering is to save all the parts. | Paul Erlich |  |
+| #226 | 2014-11-14 | It’s not what you look at that matters, it’s what you see. | Henry David Thoreau | Dup of #102 |
+| #225 | 2014-11-07 | If money can fix it, it's not a problem. | Tom Magliozzi |  |
+| #224 | 2014-10-31 | Institutions will try to preserve the problem to which they are the solution. | Clay Shirky |  |
+| #223 | 2014-10-24 | There ain’t no rules around here. We’re trying to accomplish something. | Thomas Edison | Dup of #185 |
+| #222 | 2014-10-17 | Change breaks the brittle. | Jan Houtema |  |
+| #221 | 2014-10-10 | There are many ways of going forward, but only one way of standing still. | Franklin D. Roosevelt |  |
+| #220 | 2014-10-03 | If you see a snake, just kill it. Don’t appoint a committee on snakes. | Ross Perot |  |
+| #219 | 2014-09-26 | Sometimes there is no need to be either clever or original. | Ivan Chermayeff |  |
+| #218 | 2014-09-19 | The most successful businesses have an idea for the future that's very different from the present. | Peter Thiel |  |
+| #217 | 2014-09-12 | The miracle isn’t that I finished. The miracle is that I had the courage to start. | John Bingham |  |
+| #216 | 2014-09-05 | The greatest challenge to any thinker is stating the problem in a way that will allow a solution. | Bertrand Russell |  |
+| #215 | 2014-08-29 | Every act of creation is first an act of destruction. | Pablo Picasso |  |
+| #214 | 2014-08-22 | Start out by making 100 users really happy, rather than a lot more users only a little happy. | Paul Buchheit |  |
+| #213 | 2014-08-15 | The idea of having a steady job is appealing. | Robin Williams |  |
+| #212 | 2014-08-08 | By far the dominant reason for not releasing sooner was a reluctance to trade the dream of success for the reality of feedback. | Kent Beck |  |
+| #211 | 2014-08-02 | These go to eleven. | Nigel Tufnel |  |
+| #210 | 2014-07-25 | There's that word again. "Heavy." Why are things so heavy in the future? Is there a problem with the Earth's gravitational pull? | Dr. Emmett Brown |  |
+| #209 | 2014-07-10 | It's the little details that are vital. Little things make big things happen. | John Wooden |  |
+| #208 | 2014-07-07 | Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them. | Steve Jobs |  |
+| #207 | 2014-06-27 | It's not about ideas. It's about making ideas happen. | Scott Belsky |  |
+| #206 | 2014-06-20 | Defamiliarize the ordinary. | Paul Rand |  |
+| #205 | 2014-06-13 | Creativity is not a talent. It is a way of operating. | John Cleese |  |
+| #204 | 2014-06-06 | Do what you do best and link to the rest. | Jeff Jarvis |  |
+| #203 | 2014-05-30 | Eventually you'll have the implant, where if you think about a fact, it will just tell you the answer. | Larry Page |  |
+| #202 | 2014-05-23 | One man's constant is another man's variable. | Alan Perlis | Variant of #101 |
+| #201 | 2014-05-16 | The good is not a category that interests me. | Rem Koolhaas |  |
+| #200 | 2014-05-09 | I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do. | HAL 9000 |  |
+| #199 | 2014-05-02 | What you do, who you’re with, and how you feel about the world around you, is completely up to you. | Mike Rowe |  |
+| #198 | 2014-04-26 | Get busy living, or get busy dying. | Andy Dufresne |  |
+| #197 | 2014-04-18 | Whatever excites you, go do it. Whatever drains you, stop doing it. | Derek Sivers |  |
+| #196 | 2014-04-11 | Interesting things never happen to me. I happen to them. | Bernard Shaw |  |
+| #195 | 2014-04-04 | That's all any of us are: amateurs. We don't live long enough to be anything else. | Charlie Chaplin |  |
+| #194 | 2014-03-29 | Every possession is just another stick to beat yourself with. | Johnny Cash |  |
+| #193 | 2014-03-21 | The cheapest, fastest, and most reliable components are those that aren’t there. | Gordon Bell |  |
+| #192 | 2014-03-14 | The best way to have a good idea is to have lots of ideas. | Linus Pauling |  |
+| #191 | 2014-03-07 | If debugging is the process of removing bugs, then programming must be the process of putting them in. | Edsger Dijkstra | Variant of #95 |
+| #190 | 2014-03-01 | Opportunity is missed by people because it is dressed in overalls and looks like work. | Thomas Edison |  |
+| #189 | 2014-02-21 | You want something done, ask someone busy. | Mat Helme |  |
+| #188 | 2014-02-15 | Love what you do. | Freddie |  |
+| #187 | 2014-02-07 | Our industry does not respect tradition — it only respects innovation. | Satya Nadella |  |
+| #186 | 2014-02-01 | It’s very easy to be different, but very difficult to be better. | Jonathan Ive |  |
+| #185 | 2014-01-24 | There ain’t no rules around here. We’re trying to accomplish something. | Thomas Edison |  |
+| #184 | 2014-01-17 | There is nothing so stable as change. | Bob Dylan |  |
+| #183 | 2014-01-11 | All life is an experiment. The more experiments you make the better. | Ralph Waldo Emerson |  |
+| #182 | 2014-01-04 | There are no limits. There are plateaus, but you must not stay there, you must go beyond them. | Bruce Lee |  |
+| #181 | 2013-12-27 | It’s easy to get caught up in the heady buzz of making money. You should regard money as fuel for what you really want to do, not as a goal in and of itself. Money is like gas in the car — you need to pay attention or you’ll end up on the side of the road — but a well-lived life is not a tour of gas stations! | Tim O'Reilly |  |
+| #180 | 2013-12-21 | Yes, Virginia, there is a Santa Claus. | Francis P. Church |  |
+| #179 | 2013-12-12 | Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration. If you never want to be criticized, for goodness’ sake don’t do anything new. | Stan Kelly-Bootle |  |
+| #178 | 2013-12-05 | If you never want to be criticized, for goodness’ sake don’t do anything new. | Jeff Bezos |  |
+| #177 | 2013-11-29 | Learn the principle, abide by the principle, and dissolve the principle. | Bruce Lee |  |
+| #176 | 2013-11-23 | Too often we... enjoy the comfort of opinion without the discomfort of thought. | John F. Kennedy |  |
+| #175 | 2013-11-16 | It’s not that we need new ideas, but we need to stop having old ideas. | Edwin Land | Dup of #131 |
+| #174 | 2013-11-09 | People either make things or they don’t. Inspiration is a poster. | Merlin Mann |  |
+| #173 | 2013-11-01 | Creativity is a drug I cannot live without. | Cecil Demille |  |
+| #172 |  |  |  | Not found |
+| #171 | 2013-10-23 | Think it over, think it under. | Winnie the Pooh |  |
+| #170 | 2013-10-11 | Security is a state of mind. | NSA Security Manual |  |
+| #169 | 2013-10-03 | If at first the idea is not absurd, then there is no hope for it. | Albert Einstein |  |
+| #168 | 2013-09-27 | The world always seems brighter when you’ve just made something that wasn’t there before. | Neil Gaiman |  |
+| #167 | 2013-09-20 | If you double the number of experiments you do per year, you're going to double your inventiveness. | Jeff Bezos (more great quotes from Bezos) |  |
+| #166 | 2013-09-13 | To achieve great things, two things are needed: a plan, and not quite enough time. | Leonard Bernstein |  |
+| #165 | 2013-09-08 | Creativity is just connecting things | Steve Jobs |  |
+| #164 | 2013-08-30 | Programming is not about typing.. it's about thinking. | Rich Hickey |  |
+| #163 | 2013-08-23 | Curiosity about life in all of its aspects, I think, is still the secret of great creative people. | Leo Burnett |  |
+| #162 | 2013-08-15 | Usage is like oxygen for ideas. | Matt Mullenweg |  |
+| #161 | 2013-08-08 | Testing one user early in the project is better than testing fifty near the end. | Steve Krug |  |
+| #160 | 2013-08-01 | So much complexity in software comes from trying to make one thing do two things. | Ryan Singer | Dup of #87 |
+| #159 | 2013-07-25 | Chase the vision, not the money. | Tony Hsieh |  |
+| #158 | 2013-07-20 | Life is too short to run proprietary software. | Bdale Garbee |  |
+| #157 | 2013-07-11 | Information is cheap, meaning is expensive. | George Dyson |  |
+| #156 | 2013-07-06 | We don't talk about unshipped features as a rule. It's hard to do so in a way that doesn't imply promises or timeframes. | Ryan Tomayko |  |
+| #155 |  |  |  | Not found |
+| #154 | 2013-06-29 | How did it get so late so soon? | Dr. Seuss |  |
+| #153 | 2013-06-14 | They can copy what we have. They can't copy what we're going to have. | Tawheed Kader |  |
+| #152 | 2013-06-07 | Sometimes the questions are complicated and the answers are simple. | Dr. Seuss |  |
+| #151 | 2013-06-02 | In this business, by the time you realize you're in trouble, it's too late to save yourself. Unless you're running scared all the time, you're gone. | Bill Gates |  |
+| #150 | 2013-05-24 | For every new feature we add, we take an old one out. A lot of big sites don’t do that, and it’s a problem. The drive to innovate can over encumber and destroy a product. | David Karp |  |
+| #149 | 2013-05-17 | Wikipedia is the best thing ever. Anyone in the world can write anything they want about any subject, so you know you are getting the best possible information. | Michael Scott |  |
+| #148 | 2013-05-10 | Being a developer is a lot like being a farmer, there is always work to do. | My Mom (and happy Mother's Day) |  |
+| #147 | 2013-05-03 | I am an optimist. It does not seem too much use being anything else. | Winston Churchill |  |
+| #146 | 2013-04-26 | In order to succeed, your desire for success should be greater than your fear of failure. | Bill Cosby |  |
+| #145 | 2013-04-20 | I am rarely happier than when spending an entire day programming my computer to perform automatically a task that would otherwise take me a good ten seconds to do by hand. | Douglas Adams |  |
+| #144 | 2013-04-12 | The second person who saw the wheel thought it was obvious. | unknown |  |
+| #143 | 2013-04-05 | The best minds of my generation are thinking about how to make people click ads. That sucks. | Jeff Hammerbacher |  |
+| #142 | 2013-03-29 | Most people never run far enough on their first wind to find out they’ve got a second. | William James |  |
+| #141 | 2013-03-22 | A hunch is creativity trying to tell you something. | Frank Capra |  |
+| #140 | 2013-03-15 | One of the easiest ways to shoot down good ideas, interesting policies, or worthwhile experiments is by injecting the assumption that whatever you're doing needs to last forever and ever. | DHH | Dup of 2010, week 37 |
+| #139 | 2013-03-08 | I'm not that interested in repeating hard stuff that doesn't point to something new. | Rodney Mullen |  |
+| #138 | 2013-03-01 |  |  | Issue had no quote |
+| #137 | 2013-02-22 |  |  | Issue had no quote |
+| #136 | 2013-02-15 | First, solve the problem. Then, write the code. | John Johnson |  |
+| #135 | 2013-02-08 | Keep an idea log where you write everything down, even the bad ideas. | Joshua Schachter |  |
+| #134 | 2013-02-01 | Be so good they can’t ignore you. | Peldi Guilizzoni |  |
+| #133 | 2013-01-25 | It is only when they go wrong that machines remind you how powerful they are. | Clive James |  |
+| #132 | 2013-01-18 | There are a thousand hacking at the branches of evil to one who is striking at the root. | Henry David Thoreau |  |
+| #131 | 2013-01-11 | It's not that we need new ideas, but we need to stop having old ideas. | Edwin Land |  |
+| #130 | 2013-01-04 | Your present circumstances don't determine where you can go; they merely determine where you start. | Nido Qubein |  |
+| #129 | 2012-12-28 | Any time is a good time to start a company. | Ron Conway |  |
+| #128 | 2012-12-21 | There are far, far better things ahead than any we leave behind. | C.S. Lewis |  |
+| #127 | 2012-12-14 | Only dead fish go with the flow. | Andy Hunt |  |
+| #126 | 2012-12-07 | Whatever you are, be a good one. | Abraham Lincoln |  |
+| #125 | 2012-11-30 | No is easier to do. Yes is easier to say. | Jason Fried |  |
+| #124 | 2012-11-23 | In theory, theory and practice are the same. In practice, they’re not. | Yoggi Berra |  |
+| #123 | 2012-11-16 | It literally broke my mind about when I realized that I didn't need to ask for permission from anyone to start a business. | Patrick McKenzie |  |
+| #122 | 2012-11-09 | What if we're still doing this when we're fifty? | Peter Gibbons |  |
+| #121 | 2012-11-02 | If it doesn't have a keyboard, I feel that my thoughts are being forced out through a straw. | Joey Hess |  |
+| #120 | 2012-10-26 | We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills... | John F. Kennedy |  |
+| #119 | 2012-10-19 | Simple things should be simple, complex things should be possible. | Alan Kay |  |
+| #118 | 2012-10-12 | There is no finish line. So love the journey. | David Weekly |  |
+| #117 | 2012-10-05 | We're still in the first minutes of the first day of the Internet revolution. | Scott Cook | Dup of #46 |
+| #116 | 2012-09-28 | Computers are useless. They can only give you answers. | Pablo Picasso |  |
+| #115 | 2012-09-21 | Just because you thought of a site to share photos with friends wouldn't have made you Flickr. | David Heinemeier Hansson |  |
+| #114 | 2012-09-14 | Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems. | Jamie Zawinski |  |
+| #113 | 2012-09-07 | The chief cause of failure and unhappiness is trading what you want most for what you want right now. | Zig Ziglar |  |
+| #112 | 2012-08-31 | Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten. | Neil Armstrong |  |
+| #111 | 2012-08-24 | With diligence it is possible to make anything run slowly. | Tom Duff |  |
+| #110 | 2012-08-17 | Babies are such a nice way to start people. | Don Herold |  |
+| #109 | 2012-08-10 | An engineer is the closest thing to a magician that exists in the real world. | Elon Musk |  |
+| #108 | 2012-08-03 | A good way to have good ideas is by being unoriginal. | Bram Cohen |  |
+| #107 | 2012-07-27 | Deleted code is debugged code. | Jeff Sickel |  |
+| #106 | 2012-07-20 | Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for. | Chris Sacca |  |
+| #105 | 2012-07-13 | If we'd asked the customers what they wanted, they would have said "faster horses". | Henry Ford |  |
+| #104 | 2012-07-06 | I've finally learned what 'upward compatible' means. It means we get to keep all our old mistakes. | Dennie van Tassel |  |
+| #103 | 2012-06-28 | I really don't like programming. I built this tool to program less so that I could just reuse code. | Rasmus Lerdorf (creator of PHP) |  |
+| #102 | 2012-06-22 | It's not what you look at that matters, it's what you see. | Henry David Thoreau |  |
+| #101 | 2012-06-15 | One person's constant is another person's variable. | Susan Gerhart |  |
+| #100 | 2012-06-07 | What kind of programming language will they use to write the software controlling those flying cars? | Paul Graham |  |
+| #99 | 2012-06-01 | I'm sorry, Dave. I'm afraid I can't do that. | HAL |  |
+| #98 | 2012-05-25 | In order to understand recursion, one must first understand recursion. | Author Unknown |  |
+| #97 | 2012-05-17 | My number one piece of advice is you should learn how to program. | Mark Zuckerberg |  |
+| #96 | 2012-05-11 | A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila. | Mitch Ratcliffe |  |
+| #95 | 2012-05-04 | If debugging is the process of removing software bugs, then programming must be the process of putting them in. | Edsger Dijkstra |  |
+| #94 | 2012-04-27 | But if experience has taught me anything... I'll figure this out. | Nate Kontny |  |
+| #93 | 2012-04-20 | Noise proves nothing. Often a hen who has merely laid an egg cackles as if she laid an asteroid. | Mark Twain |  |
+| #92 | 2012-04-13 | Prolific developers don't always write a lot of code, instead they solve a lot of problems. The two things are not the same. | Jonathan Chambers |  |
+| #91 | 2012-04-06 | Always prefer the plain direct word to the long, vague one. Don't implement promises, but keep them. | C.S. Lewis |  |
+| #90 | 2012-03-29 | Every feature has some maintenance cost, and having fewer features lets us focus on the ones we care about and make sure they work very well. | David Karp |  |
+| #89 | 2012-03-23 | Early in a startup, product decisions should be hunch driven. Later on, product decisions should be data driven. | Fred Wilson |  |
+| #88 | 2012-03-16 | I would definitely like to go to Mars. I think it would be cool to be born on Earth and die on Mars... hopefully, not at the point of impact. | Elon Musk |  |
+| #87 | 2012-03-09 | So much complexity in software comes from trying to make one thing do two things. | Ryan Singer |  |
+| #86 | 2012-03-02 | So next time you hear something, or someone, talk about an idea, pitch an idea, or suggest an idea, give it five minutes. | Jason Fried |  |
+| #85 | 2012-02-24 | How many legs does a dog have if you call the tail a leg? Four. Calling a tail a leg doesn't make it a leg. | Abraham Lincoln |  |
+| #84 | 2012-02-17 | The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast. | Joshua Bloch |  |
+| #83 | 2012-02-10 | The most wonderful thing you can ever give somebody is your time. No matter who you are, no matter how much money you make, most people have roughly the same amount of time. In this sense we're all equal. | Ryan McDermott |  |
+| #82 | 2012-02-03 | Most people work at only a fraction of their potential. | John Carmack |  |
+| #81 | 2012-01-27 | Why startups are hard: they are all competing for a finite resource: time. | Ben Parr |  |
+| #80 | 2012-01-20 | I used to think I was an awesome programmer. One of the best. | Markus "Notch" Persson, Creator of Mindcraft |  |
+| #79 | 2012-01-13 | The most dangerous poison is the feeling of achievement. The antidote is to every evening think what can be done better tomorrow. | Ingvar Kamprad, Founder of IKEA |  |
+| #78 | 2012-01-06 | No. It took a long time. | Bill Joy |  |
+| #77 | 2011-12-30 | You can't learn in school what the world is going to do next year. | Henry Ford |  |
+| #76 | 2011-12-23 | In all toil there is profit, but mere talk tends only to poverty. | Proverbs 14:23 |  |
+| #75 | 2011-12-17 | However little television you watch, watch less. | David McCullough |  |
+| #74 | 2011-12-09 | I’m not playing with a hammer anymore. I’m building a house. | J. D. Bentley |  |
+| #73 | 2011-12-02 | It's not about beating someone else. It's about building something useful enough that people will pay attention at all. That's what startups are really about. | Harry Heymann of Foursquare |  |
+| #72 | 2011-11-26 | If you count all your assets, you always show a profit. | Robert Quillen |  |
+| #71 | 2011-11-18 | Business Logic" is an oxymoron, because businesses are run in very illogical ways | Martin Fowler |  |
+| #70 | 2011-11-11 | There's a misconception about the military -- that it strips away individuality. Not true. In fact, teamwork is all about accepting diversity. | Dan Cross, engineer at Google and Marine |  |
+| #69 | 2011-11-07 | You can pivot a product, but not a user base. | Gary Chou |  |
+| #68 | 2011-10-28 | Lisp isn't a language, it's a building material. | Alan Kay |  |
+| #67 | 2011-10-22 | To the user, the interface is the product. | Aza Raskin |  |
+| #66 | 2011-10-14 | UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity. | Dennis Ritchie |  |
+| #65 | 2011-10-07 | By honoring the lives of those we admire, we make our own values known. Perhaps more clearly than words ever could. | Steve Jobs |  |
+| #64 | 2011-09-30 | Technology is a word that describes something that doesn't work yet. | Douglas Adams |  |
+| #63 | 2011-09-16 | What you do speaks so loud I cannot hear what you say. | Ralph Waldo Emerson |  |
+| #62 | 2011-09-16 | Inefficient programmers tend to experiment randomly until they find a combination that seems to work. | Steve McConnell | Same page content as #60; number unreliable |
+| #61 | 2011-09-16 | Inefficient programmers tend to experiment randomly until they find a combination that seems to work. | Steve McConnell | Same page content as #60; number unreliable |
+| #60 | 2011-09-16 | Inefficient programmers tend to experiment randomly until they find a combination that seems to work. | Steve McConnell |  |
+| #59 | 2011, date unknown | It's more fun to be a pirate than to join the navy. | Steve Jobs | Same page content as #57; number unreliable |
+| #58 | 2011, date unknown | In short, software is eating the world. | Marc Andreessen |  |
+| #57 | 2011, date unknown | It's more fun to be a pirate than to join the navy. | Steve Jobs |  |
+| #56 | 2011, week 31 | My period of greatest creative output was during my corporate years, when every meeting felt like a play date with coma patients. | Scott Adams | Same page content as #55; number unreliable |
+| #55 | 2011, week 31 | My period of greatest creative output was during my corporate years, when every meeting felt like a play date with coma patients. | Scott Adams |  |
+| #54 | 2011, week 29 | The prisoner falls in love with his chains. | Edsger Dijkstra |  |
+| #53 | 2011, week 28 | I take a day of rest now. I won't turn on the computer on Sunday. The other six days, I work like a dog. | Tom Pittman | From the book Hackers: Heroes of the Computer Revolution |
+| #52 | 2011, week 27 | It may be easier than ever to start a product, but building a company is just as hard as its ever been. | Sarah Lacy | Same page content as #41; number unreliable |
+| #41 | 2011, week 27 | It may be easier than ever to start a product, but building a company is just as hard as its ever been. | Sarah Lacy |  |
+| #51 | 2011, week 26 | The three golden rules to ensure computer security are: do not own a computer; do not power it on; and do not use it. | Robert Morris | Same page content as #40; number unreliable |
+| #50 | 2011, week 26 | The three golden rules to ensure computer security are: do not own a computer; do not power it on; and do not use it. | Robert Morris | Same page content as #40; number unreliable |
+| #40 | 2011, week 26 | The three golden rules to ensure computer security are: do not own a computer; do not power it on; and do not use it. | Robert Morris |  |
+| #49 | 2011, week 24 | The reason we all know to be careful with rm -r is because of that one time we weren't. | Chris Rikli | Same page content as #22; number unreliable |
+| #22 | 2011, week 24 | The reason we all know to be careful with rm -r is because of that one time we weren't. | Chris Rikli |  |
+| #48 | 2011, week 23 | I'd say in a given week I probably only do about fifteen minutes of real, actual, work. | Peter Gibbons in Office Space |  |
+| #47 | 2011, week 22 | It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter. | Nathaniel Borenstein |  |
+| #46 | 2011, week 21 | We're still in the first minutes of the first day of the Internet revolution. | Scott Cook |  |
+| #45 | 2011, week 20 | The most important thing is to learn that good enough is almost always good enough; you don't need to find the best. You'll be happier if, once you find something that meets your standards, you stop looking and don't worry about it. | Barry Schwartz |  |
+| #44 | 2011, week 19 | In a hundred different ways, we have slowly marginalized an entire category of critical professions, reshaping our expectations of a 'good job' into something that no longer looks like work. | Mike Rowe ( comments ) |  |
+| #43 | 2011, week 18 | Google only loves you when everyone else loves you first. | Wendy Piersall |  |
+| #42 | 2011, week 17 | This kind of 'I broke things, so now I will jiggle things randomly until they unbreak' is not acceptable. | Linus Torvalds |  |
+| #39 | 2011, week 14 | To me, ideas are worth nothing unless executed. They are just a multiplier. | Derek Sivers |  |
+| #38 | 2011, week 13 | The first of April is the day we remember what we are the other 364 days of the year. | Mark Twain |  |
+| #37 | 2011, week 12 | Everything popular is wrong. | Oscar Wilde |  |
+| #36 | 2011, week 11 | How we live our days is how we live our lives. | Annie Dillard |  |
+| #35 | 2011, week 10 | You have to solve a problem that people actually have. But it’s not always a problem that they know they have, so that’s tricky. | Joshua Schachter |  |
+| #34 | 2011, week 9 | My life isn't glamorous. | Linus Torvalds |  |
+| #33 | 2011, week 8 | An essential aspect of creativity is not being afraid to fail. | Edwin Land |  |
+| #32 | 2011, week 7 | Either way, it's out of your control. If you're in love, you're in love. Make the most of it. | Alex Payne |  |
+| #31 | 2011, week 6 | Thinking about the future can be so pleasurable that sometimes we'd rather think about it than get there. | Daniel Gilbert |  |
+| #30 | 2011, week 5 | Agile isn't what you do, it is what you become. | Dave Thomas (at MagicRuby) |  |
+| #29 | 2011, week 4 | If you find a path with no obstacles, it probably doesn't lead anywhere. | Frank A. Clark |  |
+| #28 | 2011, week 3 | Do not believe that it is very much of an advance to do the unnecessary three times as fast. | Peter Drucker |  |
+| #27 | 2011, week 2 | It's kind of fun to do the impossible. | Walt Disney |  |
+| #26 | 2011, week 1 | Do fewer things. | Evan Williams |  |
+| #25 | 2010, week 52 | Be always at war with your vices, at peace with your neighbors, and let each new year find you a better man. | Benjamin Franklin |  |
+| #24 | 2010, week 51 | Dear Sirs, I am. Sincerely yours, G. K. Chesterton | G. K. Chesterton | Chesterton's response to The Times asking for an essay on the theme "What's Wrong with the World?". |
+| #23 |  |  |  | Not found |
+|  | 2010, week 42 | Do things that allow you to win and that allow someone else to win. It is not a zero-sum game. | Tom Preston-Werner |  |
+|  | 2010, week 41 | I'm not a violent person. But patent trolls make me have visions of dungeons and medieval tools... | Jacques Mattheij |  |
+|  | 2010, week 40 | We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about. | Einstein |  |
+|  | 2010, week 39 | The less confident you are, the more serious you have to act. | Tara Ploughman |  |
+|  | 2010, week 38 | extremely awkward moment as I randomly walk in on Angel investor Godfathers dinner. Super strange atomospherics | Michael Arrington (via Twitter) |  |
+|  | 2010, week 37 | One of the easiest ways to shoot down good ideas, interesting policies, or worthwhile experiments is by injecting the assumption that whatever you’re doing needs to last forever and ever. | DDH |  |
+|  | 2010, week 36 | Our way of life has been influenced by the way technology has developed. In future, it seems to me, we ought to try to reverse this and so develop our technology that it meets the needs of the sort of life we wish to lead. | Prince Phillip |  |
+|  | 2010, week 35 | Startups in 137 chars: Make something someone specific needs, launch fast, let users show you what to change, change it, repeat last two. | Paul Graham |  |
+|  | 2010, week 34 | World, I'll pay extra if you will please give me less. | Scott Adams |  |
+|  | 2010, week 33 | Welcome to the new decade: Java is a restricted platform, Google is evil, Apple is a monopoly and Microsoft are the underdogs | Phil Nash |  |
+|  | 2010, week 32 | Egg freckles? | Doonesbury |  |
+|  | 2010, week 31 | Running a startup is not like having a job or being a student, because it never stops. | Paul Graham |  |
+|  | 2010, week 30 | Measuring programming progress by lines of code is like measuring aircraft building progress by weight. | Bill Gates |  |
+|  | 2010, week 29 | If you don't have time to do it right, when will you have time to do it over? | John Wooden |  |
