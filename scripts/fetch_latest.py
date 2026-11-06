@@ -117,6 +117,10 @@ def main():
         except ParseError as error:
             print(f"Issue #{issue}: {error} ({URL.format(issue)})", file=sys.stderr)
             sys.exit(1)
+        for skipped in range(latest + 1, issue):
+            gap = dict(issue=str(skipped), date="", quote="", attribution="", notes="Not found")
+            rows.append(gap)
+            added.append(gap)
         rows.append(row)
         added.append(row)
         print(f"#{row['issue']} {row['date']}: {row['quote']} //{row['attribution']}")

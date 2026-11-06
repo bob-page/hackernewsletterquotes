@@ -19,6 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - run: python3 scripts/fetch_latest.py
+      # Checks don't run on pull requests opened by this workflow, so validate here.
+      - run: python3 scripts/check.py
       - name: Open a pull request
         env:
           GH_TOKEN: ${{ github.token }}
