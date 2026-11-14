@@ -21,10 +21,11 @@ UNKNOWN_DATE = "2011, date unknown"
 REFERENCE = re.compile(r"\b(Dup|Variant) of (#[\d.]*\d|\d{4}, week \d{1,2})")
 
 BAD_TEXT = [
-    (re.compile(r"[\x00-\x1f\x7f ​-‍⁠﻿]"), "control or invisible character"),
+    (re.compile(r"[\x00-\x1f\x7f\u00a0\u200b-\u200f\u202a-\u202e\u2060-\u2069\ufeff]"), "control, invisible or text-direction character"),
+    (re.compile(r"https?://|\bwww\.|\]\(|\bmailto:", re.I), "link or URL"),
     (re.compile(r"&(?:[a-zA-Z]+|#\d+);"), "HTML entity"),
     (re.compile(r"</?(?:a|b|i|p|br|em|strong|span|div)\b[^>]*>", re.I), "HTML tag"),
-    (re.compile("â€|[ÃÂ][\u0080-¿]|�"), "garbled text"),
+    (re.compile("\u00e2\u20ac|[\u00c3\u00c2][\u0080-\u00bf]|\ufffd"), "garbled text"),
 ]
 
 
@@ -120,6 +121,9 @@ def check_row(row, today):
 
     if re.match(r"[/\-–—]", row["attribution"]):
         problems.append("leave the leading mark off the attribution")
+    for name in ("quote", "attribution", "notes"):
+        if re.match(r"[=+\-@]", row[name]):
+            problems.append(f"{name} starts with {row[name][0]!r}, which spreadsheets treat as a formula")
     if any(not part.strip() for part in row["notes"].split(";")) and row["notes"]:
         problems.append("empty note: separate notes with '; '")
     return problems

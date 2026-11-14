@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Generate README.md from quotes.csv. Edit quotes.csv, not the README table."""
+import re
+
 from quoteslib import README_PATH, normalize, read_rows
 
 INTRO = """# Hacker Newsletter Quotes
 
 Every issue of [Hacker Newsletter](https://hackernewsletter.com/) opens with a short quote. This is an attempt to collect all of them.
+
+Thanks to Kale Davis for creating and maintaining Hacker Newsletter.
 
 This is an unofficial fan project and isn't affiliated with the newsletter. Corrections and missing issues are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -23,8 +27,12 @@ This is an unofficial fan project and isn't affiliated with the newsletter. Corr
 """
 
 
+MARKDOWN = re.compile(r"([\\`*_~\[\]<>|])")
+
+
 def cell(value):
-    return value.replace("\\", "\\\\").replace("|", "\\|").replace("\n", " ").strip()
+    """Escape a value so it shows as plain text in a table: no links, images, HTML or styling."""
+    return MARKDOWN.sub(r"\\\1", value.replace("\n", " ").strip())
 
 
 def render(rows):

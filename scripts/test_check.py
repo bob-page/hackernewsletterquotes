@@ -4,6 +4,7 @@ import unittest
 from datetime import date
 from pathlib import Path
 
+from build_readme import cell
 from check import find_problems, read_file
 
 TODAY = date(2026, 11, 6)
@@ -51,11 +52,24 @@ class Rows(unittest.TestCase):
         self.assert_flags("HTML entity", row(quote="Fish &amp; chips"))
         self.assert_flags("HTML tag", row(quote="Bold <b>move</b>"))
         self.assert_flags("garbled", row(quote="Donâ€™t panic"))
-        self.assert_flags("invisible", row(quote="Odd space"))
+        self.assert_flags("invisible", row(quote="Odd\u00a0space"))
         self.assert_flags("quotation marks", row(quote='"Wrapped"'))
         self.assert_flags("own column", row(quote="Words //Someone"))
         self.assert_flags("over 600", row(quote="x" * 601))
         self.assert_flags("leading mark", row(attribution="//Someone"))
+
+    def test_unsafe_content(self):
+        self.assert_flags("link or URL", row(quote="See https://example.com"))
+        self.assert_flags("link or URL", row(quote="Visit www.example.com"))
+        self.assert_flags("link or URL", row(quote="[click](example)"))
+        self.assert_flags("link or URL", row(notes="Source: http://example.com"))
+        self.assert_flags("formula", row(quote="=HYPERLINK(1)"))
+        self.assert_flags("formula", row(quote="+1 to that"))
+        self.assert_flags("formula", row(quote="@channel"))
+        self.assert_flags("formula", row(notes="-Dup"))
+        self.assert_flags("text-direction", row(quote="abc\u202edef"))
+        self.assert_flags("text-direction", row(quote="abc\u2066def"))
+        self.assert_flags("text-direction", row(quote="abc\u200fdef"))
 
     def test_missing_fields(self):
         self.assert_flags("needs a note", row(quote="", attribution=""))
@@ -73,6 +87,14 @@ class Rows(unittest.TestCase):
         self.assertEqual(messages(first, row("101", "2020-01-10", notes="Dup of #100")), [])
         self.assertEqual(messages(first, row("101", "2020-01-10", "Some quote there.", notes="Variant of #100")), [])
         self.assertEqual(messages(first, row("101", "2020-01-10", notes="Same page content as #100")), [])
+
+
+class Readme(unittest.TestCase):
+    def test_cell_shows_markdown_as_text(self):
+        self.assertEqual(cell("[a](b) ![i](c)"), r"\[a\](b) !\[i\](c)")
+        self.assertEqual(cell("<b>x</b> *y* _z_ ~w~ `v`"), r"\<b\>x\</b\> \*y\* \_z\_ \~w\~ \`v\`")
+        self.assertEqual(cell("a|b\\c"), r"a\|b\\c")
+        self.assertEqual(cell("Plain words, (fine)."), "Plain words, (fine).")
 
 
 class File(unittest.TestCase):
