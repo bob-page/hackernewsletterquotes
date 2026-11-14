@@ -2,6 +2,8 @@
 
 Every issue of [Hacker Newsletter](https://hackernewsletter.com/) opens with a short quote. This is an attempt to collect all of them.
 
+Thanks to Kale Davis for creating and maintaining Hacker Newsletter.
+
 This is an unofficial fan project and isn't affiliated with the newsletter. Corrections and missing issues are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 **683 unique quotes from 748 issues**, newest first. 62 issue numbers are still missing.
