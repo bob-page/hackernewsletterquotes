@@ -6,7 +6,7 @@ Thanks to Kale Davis for creating and maintaining Hacker Newsletter.
 
 This is an unofficial fan project and isn't affiliated with the newsletter. Corrections and missing issues are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-**683 unique quotes from 748 issues**, newest first. 62 issue numbers are still missing.
+**684 unique quotes from 749 issues**, newest first. 62 issue numbers are still missing.
 
 - Attributions are as printed in the newsletter and haven't been verified.
 - Dates are the date printed in each issue.
@@ -18,6 +18,7 @@ This is an unofficial fan project and isn't affiliated with the newsletter. Corr
 
 | Issue | Date | Quote | Attribution | Notes |
 | --- | --- | --- | --- | --- |
+| #819 | 2026-11-19 | You cannot make a spoon that is better than a spoon. | Umberto Eco |  |
 | #818 | 2026-11-13 | How hard can it be? | Jensen Huang |  |
 | #817 | 2026-11-06 | The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. | G.K. Chesterton |  |
 | #816 | 2026-10-30 | Things are only impossible until they are not. | Captain Picard |  |
