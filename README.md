@@ -6,7 +6,7 @@ Thanks to Kale Davis for creating and maintaining Hacker Newsletter.
 
 This is an unofficial fan project and isn't affiliated with the newsletter. Corrections and missing issues are welcome: see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-**684 unique quotes from 749 issues**, newest first. 62 issue numbers are still missing.
+**687 unique quotes from 753 issues**, newest first. 58 issue numbers are still missing.
 
 - Attributions are as printed in the newsletter and haven't been verified.
 - Dates are the date printed in each issue.
@@ -175,8 +175,8 @@ This is an unofficial fan project and isn't affiliated with the newsletter. Corr
 | #665.9 | 2023-08-25 | Life is like riding a bicycle. To keep your balance, you must keep moving. | Albert Einstein | Probably stands in for #666 |
 | #665 | 2023-08-19 | In every walk with nature one receives far more than he seeks. | John Muir |  |
 | #664 | 2023-08-11 | Only those who will risk going too far can possibly find out how far one can go. | T. S. Eliot |  |
-| #663 |  |  |  | Not found |
-| #662 |  |  |  | Not found |
+| #663 | 2023-08-04 | Everyone loves feeling comfortable. But it's actually completely useless. | Tobias Lutke | Dup of #662; Combined issue #662/663 |
+| #662 | 2023-08-04 | Everyone loves feeling comfortable. But it's actually completely useless. | Tobias Lutke | Combined issue #662/663 |
 | #661 | 2023-07-21 | There is never enough time to do everything, but there is always enough time to do the most important thing. | Brian Tracy |  |
 | #660 | 2023-07-14 | Leaders don't create followers, they create more leaders. | Tom Peters | Dup of #624 |
 | #659 | 2023-07-07 | Youth has no age. | Pablo Picasso |  |
@@ -263,7 +263,7 @@ This is an unofficial fan project and isn't affiliated with the newsletter. Corr
 | #578 | 2021-11-05 | Small deeds done are better than great deeds planned. | Peter Marshall |  |
 | #577 | 2021-10-29 | Almost every failed startup has a product. What failed startups don't have are enough customers. | Gabriel Weinberg | Masthead variant: "hackerbooletter" |
 | #576 | 2021-10-22 | Most of the important things I've learned, I've learned through repeated pain. | David Cancel |  |
-| #575 |  |  |  | Not found |
+| #575 | 2021-10-15 | Check your life. Not boxes. | Richie Norton |  |
 | #574 | 2021-10-08 | Always remember that you are absolutely unique. Just like everyone else. | Margaret Mead |  |
 | #573 | 2021-10-01 | Understanding motivation is one of the most important things we can do in our lives, because it has such a bearing on why we do the things we do and whether we enjoy them or not. | Clayton Christensen |  |
 | #572 | 2021-09-24 | If you are not embarrassed by the first version of your product, you’ve launched too late. | Reid Hoffman |  |
@@ -423,7 +423,7 @@ This is an unofficial fan project and isn't affiliated with the newsletter. Corr
 | #418 | 2018-09-07 | Every damn thing is your own fault, if you’re any good. | Ernest Hemingway | Masthead joke: "i'm a teapot" |
 | #417 | 2018-08-30 | A ship in harbor is safe, but that is not what ships are built for. | Grace Hopper |  |
 | #416 | 2018-08-24 | If we have data, let’s look at data. If all we have are opinions, let’s go with mine. | Jim Barksdale |  |
-| #415 |  |  |  | Not found |
+| #415 | 2018-08-17 | Sometimes, what you're looking for is already there. | Aretha Franklin |  |
 | #414 | 2018-08-10 | When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down ‘happy.’ They told me I didn’t understand the assignment, and I told them they didn’t understand life. | Nick Offerman |  |
 | #413 | 2018-08-03 | When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us. | Helen Keller |  |
 | #412 | 2018-07-27 | There is at least one point in the history of any company when you have to change dramatically to rise to the next level of performance. Miss that moment - and you start to decline. | Andy Grove |  |
